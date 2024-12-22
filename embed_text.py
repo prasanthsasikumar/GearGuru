@@ -1,13 +1,10 @@
 import faiss
 import numpy as np
-from transformers import LlamaTokenizer, LlamaForCausalLM
+import requests
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-import torch
 
-# Initialize LLaMA model (1B or 3B)
-model_name = "huggingface/llama-3b"  # Choose 'llama-1b' or 'llama-3b'
-tokenizer = LlamaTokenizer.from_pretrained(model_name)
-model = LlamaForCausalLM.from_pretrained(model_name)
+# Ollama API Configuration
+OLLAMA_API_URL = "http://localhost:11434/api/embeddings"
 
 def chunk_text(text):
     """
@@ -18,18 +15,29 @@ def chunk_text(text):
 
 def create_embedding(text):
     """
-    Creates an embedding for the input text using LLaMA.
+    Creates an embedding for the input text using the Ollama API.
     """
-    inputs = tokenizer(text, return_tensors='pt', truncation=True, padding=True)
-    outputs = model(**inputs)
-    embeddings = outputs.last_hidden_state.mean(dim=1)
-    return embeddings.detach().cpu().numpy()
+    payload = {
+        "model": "llama3.2",  # Specify the model being used
+        "input": text
+    }
+
+    try:
+        # Make the POST request to Ollama's embedding API
+        response = requests.post(OLLAMA_API_URL, json=payload)
+        response.raise_for_status()
+
+        # Extract the embeddings from the response
+        result = response.json()
+        return np.array(result.get("embedding", []), dtype=np.float32)
+    except requests.RequestException as e:
+        raise RuntimeError(f"Error querying the Ollama API: {e}")
 
 def create_faiss_index(embeddings):
     """
     Creates and stores embeddings in a FAISS index.
     """
-    dim = embeddings[0].shape[1]  # Embedding dimension
+    dim = embeddings[0].shape[0]  # Embedding dimension
     index = faiss.IndexFlatL2(dim)
     embeddings_np = np.vstack(embeddings)
     index.add(embeddings_np)
@@ -49,7 +57,7 @@ if __name__ == "__main__":
     # Chunk the text
     chunks = chunk_text(text)
 
-    # Generate embeddings
+    # Generate embeddings using Ollama
     embeddings = [create_embedding(chunk) for chunk in chunks]
 
     # Create FAISS index

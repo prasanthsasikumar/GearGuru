@@ -1,0 +1,7 @@
+pypdf2
+pdfplumber
+langchain
+transformers
+faiss-cpu
+fastapi
+uvicorn

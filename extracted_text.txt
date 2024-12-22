@@ -1,0 +1,2698 @@
+TABLE OF CONTENTS
+Foreword ����������������������������������������������������������������������������������������������������� 8
+Welcome �����������������������������������������������������������������������������������������������������������������������8
+EVAP System (Evaporative Emission Control System) ������������������������������������������������9
+Catalytic Converter ������������������������������������������������������������������������������������������������������10
+Introduction ����������������������������������������������������������������������������������������������� 13
+VIN and Engine Serial Number ���������������������������������������������������������������� 14
+Specifications ������������������������������������������������������������������������������������������� 15
+Operator Safety����������������������������������������������������������������������������������������� 18
+General Safety Precautions ����������������������������������������������������������������������������������������18
+Owner Responsibilities ������������������������������������������������������������������������������������������������22
+Safe Riding Gear ���������������������������������������������������������������������������������������������������������23
+Potential Hazard Warnings ������������������������������������������������������������������������������������������26
+Safety Decals and Locations ������������������������������������������������������������������� 31
+Vehicle View ���������������������������������������������������������������������������������������������� 33
+Rear Left View �������������������������������������������������������������������������������������������������������������33
+Front Right View ����������������������������������������������������������������������������������������������������������34
+Controls and Features ����������������������������������������������������������������������������� 35
+Clutch Lever ����������������������������������������������������������������������������������������������������������������35Front Hand Brake Lever ����������������������������������������������������������������������������������������������35
+Handlebar Switch, LH �������������������������������������������������������������������������������������������������36
+Handlebar Switch, RH �������������������������������������������������������������������������������������������������37
+Throttle Grip ����������������������������������������������������������������������������������������������������������������37
+Locks ���������������������������������������������������������������������������������������������������������������������������38
+Side Box Lock �������������������������������������������������������������������������������������������������������������38
+Fuel Tank Lock �����������������������������������������������������������������������������������������������������������39
+Windshield Adjusting Knob ������������������������������������������������������������������������������������������39
+Gear Shift Lever ����������������������������������������������������������������������������������������������������������40
+Rear Brake Lever ��������������������������������������������������������������������������������������������������������41
+Side Stand �������������������������������������������������������������������������������������������������������������������41
+Passenger handhold and footrest �������������������������������������������������������������������������������42
+TFT Instrument (Select markets)������������������������������������������������������������� 43
+Instrument �������������������������������������������������������������������������������������������������������������������43
+Activation and Test ������������������������������������������������������������������������������������������������������43
+Instrument Indicators ���������������������������������������������������������������������������������������������������44
+Instrument Display(ECO mode) ����������������������������������������������������������������������������������47
+Instrument Display(SPORT mode) ������������������������������������������������������������������������������48
+Instrument Menu ���������������������������������������������������������������������������������������������������������54
+Operating Your Vehicle ���������������������������������������������������������������������������� 75Break-in Period �����������������������������������������������������������������������������������������������������������75
+Daily Safety Inspection ������������������������������������������������������������������������������������������������76
+Starting ������������������������������������������������������������������������������������������������������������������������78
+Starting Off ������������������������������������������������������������������������������������������������������������������79
+Shifting, Riding ������������������������������������������������������������������������������������������������������������79
+Brake ���������������������������������������������������������������������������������������������������������������������������81
+Parking ������������������������������������������������������������������������������������������������������������������������82
+Safety Operation ��������������������������������������������������������������������������������������� 83
+Safe Riding Technique ������������������������������������������������������������������������������������������������83
+Additional Cautions for High Speed Operation �����������������������������������������������������������85
+Maintenance ���������������������������������������������������������������������������������������������� 86
+Severe Use Definition �������������������������������������������������������������������������������������������������86
+Key Points of Lubrication Schedule: ��������������������������������������������������������������������������87
+Break-in Maintenance Schedule ���������������������������������������������������������������������������������88
+Periodic Maintenance Schedule ����������������������������������������������������������������������������������91
+Clutch Lever Freeplay �������������������������������������������������������������������������������������������������97
+Took Kit �����������������������������������������������������������������������������������������������������������������������98
+Fuel System ���������������������������������������������������������������������������������������������� 99
+Fuel Tank ���������������������������������������������������������������������������������������������������������������������99
+Fuel Requirement ������������������������������������������������������������������������������������������������������100Engine Assy �������������������������������������������������������������������������������������������� 101
+Engine Oil Level Inspection ���������������������������������������������������������������������������������������101
+Change Engine Oil and Oil Filter �������������������������������������������������������������������������������102
+Engine Oil Capacity ���������������������������������������������������������������������������������������������������104
+Spark Plug �����������������������������������������������������������������������������������������������������������������105
+Air Intake and Exhaust System ������������������������������������������������������������� 106
+Fuel & Exhaust Detecting System �����������������������������������������������������������������������������106
+Air Intake Valve ���������������������������������������������������������������������������������������������������������106
+Valve Clearance ��������������������������������������������������������������������������������������������������������107
+Air Filter ���������������������������������������������������������������������������������������������������������������������108
+Cooling System �������������������������������������������������������������������������������������� 109
+Radiator and Cooling Fan �����������������������������������������������������������������������������������������109
+Radiator Hoses ���������������������������������������������������������������������������������������������������������109
+Coolant ����������������������������������������������������������������������������������������������������������������������110
+Coolant Level Inspection �������������������������������������������������������������������������������������������112
+Coolant Filling �����������������������������������������������������������������������������������������������������������113
+Tire and Chain ������������������������������������������������������������������������������������������114
+Tire Specification �������������������������������������������������������������������������������������������������������114
+Tire Payload ��������������������������������������������������������������������������������������������������������������115
+Tire Friction ���������������������������������������������������������������������������������������������������������������116Drive Chain Inspection ����������������������������������������������������������������������������������������������117
+Chain Tension Adjustment �����������������������������������������������������������������������������������������118
+Brake System ������������������������������������������������������������������������������������������ 120
+Front Brake Lever Inspection ������������������������������������������������������������������������������������120
+Rear Brake Pedal Inspection ������������������������������������������������������������������������������������120
+Brake Fluid Level Inspection �������������������������������������������������������������������������������������121
+Adding Brake Fluid ����������������������������������������������������������������������������������������������������122
+Brake Disc Inspection �����������������������������������������������������������������������������������������������124
+Brake Caliper Inspection �������������������������������������������������������������������������������������������124
+Anti-lock Braking System (ABS) ��������������������������������������������������������������������������������125
+Shock Absorber �������������������������������������������������������������������������������������� 126
+Shock Absorber Inspection ���������������������������������������������������������������������������������������126
+Shock Absorber Inspection ���������������������������������������������������������������������������������������127
+Rear shock absorber adjustment ������������������������������������������������������������������������������128
+Front shock absorber adjustment ������������������������������������������������������������������������������129
+Electrical System and Light Signal ������������������������������������������������������� 130
+Battery �����������������������������������������������������������������������������������������������������������������������130
+Light ��������������������������������������������������������������������������������������������������������������������������135
+Fuse ��������������������������������������������������������������������������������������������������������������������������136
+Catalytic Converter��������������������������������������������������������������������������������� 137Fuel Evaporation System����������������������������������������������������������������������� 138
+Motorcycle cleaning and storage���������������������������������������������������������� 139
+General Precautions �������������������������������������������������������������������������������������������������139
+Washing Vehicle ��������������������������������������������������������������������������������������������������������140
+Protect the Surface ���������������������������������������������������������������������������������������������������141
+Windshield and Other Plastic ������������������������������������������������������������������������������������141
+Chrome and Aluminum ����������������������������������������������������������������������������������������������141
+Preparation for Storage ���������������������������������������������������������������������������������������������143
+Preparation After Storage ������������������������������������������������������������������������������������������144
+Transporting Your Vehicle �����������������������������������������������������������������������������������������144
+General troubles and causes ���������������������������������������������������������������� 145
+Reporting Safety Defects ������������������������������������������������������������������������������������������147
+Warranty Information ����������������������������������������������������������������������������� 148
+Change of Ownership �����������������������������������������������������������������������������������������������148
+CFMOTO LIMITED WARRANTY ������������������������������������������������������������� 149
+Telematics Box ��������������������������������������������������������������������������������������� 159FOREWORD
+Foreword
+Welcome
+Thank you for purchasing a CFMOTO vehicle, and welcome to our world-wide family of CFMOTO
+enthusiasts� Be sure to visit us online at www�cfmoto�com for the latest news, new product introductions,
+upcoming events, and more�
+CFMOTO is an international company that specializes in the development, manufacture, and marketing of
+all-terrain vehicles, utility vehicles, large displacement motorcycles, and their core components� Founded
+in 1989, CFMOTO is devoted to the development of independent brand cultivation and R&D innovation�
+CFMOTO products are currently distributed through more than 2000 companions worldwide in more than
+100 countries and regions� CFMOTO is edging into the advanced ranks in the world of powersports, and
+aims to supply superior products to dealers and fans globally�
+For safe and enjoyable operation of your vehicle, be sure to follow the instructions and recommendations
+in this owner’s manual� Your manual contains instructions for minor maintenance� Information about major
+repairs is outlined in the CFMOTO Service Manual�
+Your CFMOTO dealer knows your vehicle best and is interested in your total satisfaction� Be sure to return
+to your dealership for all of your service needs during, and after, the warranty period�
+Due to constant improvements in the design, quality, or configuration of production components, some minor
+discrepancies may result between the actual vehicle and the information presented in this publication�
+CFMOTO reserves the right to change product features, specifications and components without notice or
+incurring obligation to the purchaser� Depictions and/or procedures within are intended for reference use
+only� The most current version of this manual may be available on the CFMOTO consumer website of the
+market you reside in�
+8FOREWORD
+Before every ride, please inspect your vehicle and follow the basic maintenance procedures before riding�
+Please keep this manual together with your vehicle, even when transferring the vehicle to others�
+Zhejiang CFMOTO power Co., Ltd reserves the final explanation rights of the owner's manual.
+DANGER
+Operating, servicing and maintaining on-road or off-road vehicles can expose you to chemicals including
+engine exhaust, carbon monoxide, phthalates, and lead, which are known to cause cancer and birth
+defects or other reproductive harm� To minimize exposure, avoid breathing exhaust, do not idle the engine
+except as necessary, service your vehicle in a well-ventilated area and wear gloves or wash your hands
+frequently when servicing your vehicle�
+EVAP System (Evaporative Emission Control System)
+(If equipped)
+When required by environmental emissions regulations, this vehicle is manufactured with a fuel
+evaporation system (EVAP) to prevent fuel vapors entering the atmosphere from the fuel tank and fuel
+system�
+During routine maintenance, visually inspect all hose connections for leaks or blockage� Ensure the
+hoses are not clogged or kinked, which could damage the fuel pump or distort the fuel tank� No other
+maintenance is necessary�
+9FOREWORD
+Contact your dealer if repair is required� Do not modify the EVAP system� Modifying any part of this system
+will violate environmental emissions regulations�
+Catalytic Converter
+CAUTION: Please pay attention to the following to protect your catalytic converter:
+• Use only unleaded gasoline� Even gasoline that contains a little lead could damage the reactive
+metals contained in the catalytic converter and disable it�
+• Never add rust preventive oil or engine oil into the muffler� Doing so could damage the catalytic
+converter�
+NOTE
+Some features described within this manual may not apply to models in your market�
+All descriptions and directions given are from the operator’s perspective when properly seated�
+Information in this publication is based on the latest production available at the time of approval for
+printing�
+CFMOTO reserves the right to make changes at any time without notice and without incurring any
+obligation�
+10FOREWORD
+Signal Words
+A signal word calls attention to a safety message or messages, a property damage message or messages,
+and designates a degree or level of hazard seriousness� The standard signal words in this manual are
+DANGER, WARNING, CAUTION and NOTE�
+The following signal words and symbols appear throughout this manual and on your vehicle� Your safety is
+involved when these words and symbols are used� Become familiar with their meanings before reading the
+manual:
+DANGER
+This safety alert and icon indicates a potential hazard that may result in serious injury or death�
+WARNING
+This safety alert and icon indicates a potential hazard that may result in minor or moderate personal injury
+and/or damage to the vehicle�
+CAUTION
+This safety alert and icon indicates a potential hazard that may result in damage to the vehicle�
+NOTE
+A note or notice will alert you to important information or instructions�
+11FOREWORD
+READ THE OWNER’S MANUAL
+FOLLOW ALL INSTRUCTIONS AND WARNINGS
+WARNING
+Read, understand, and follow all of the instructions and safety precautions in this manual and on
+all product labels. Failure to follow the safety precautions could result in serious injury or death.
+WARNING
+The engine exhaust gas from this product contains CO, which is deadly gas and could cause
+headaches, giddiness, loss of consciousness, or even death.
+12INTRODUCTION
+Introduction
+Thank you for purchasing a CFMOTO vehicle, and welcome to our world-wide family of CFMOTO
+enthusiasts� For safe and enjoyable operation of your vehicle, be sure to follow the instructions and
+recommendations in this owner’s manual� Information about major repairs are outlined in the CFMOTO
+Service Manual, and should only be performed by a CFMOTO service dealer and technician� Be sure to
+return to your dealership for all of your service needs during, and after, the warranty period�
+If you have questions or concerns about your vehicle
+All questions or concerns related to your vehicle should be directed to your local CFMOTO dealer first.
+Your dealer knows your vehicle best and is interested in your total satisfaction� In the event your local
+dealer is unable to resolve a product issue or concern, you can reach a CFMOTO customer service
+representative depending on the market you reside in:
+For USA: Please contact CFMOTO POWERSPORTS, INC� TEL: 763-398-2690, by e-mail: info@
+cfmotousa�com, or online: https://cfmotousa�com/customer-care/customer-care-contact� Please note that
+customer service does not have authority to approve or deny warranty, and cannot provide technical repair
+data, diagnosis, or instructions�
+For CANADA: Please contact CANADA MOTOR IMPORT INC� TEL: 1-418-227-2077, or online: https://
+www�cfmoto�ca/en/customer-care/�
+For a safety concern related to your Canadian vehicle, you may report your concern to Transport Canada
+Defect Investigation and Recalls Division by mail, telephone, or online using the contact information below:
+Mailing address: Transport Canada - ASFAD, 330 Sparks Street, Ottawa, ON, K1A 0N5
+TEL: 819-994-3328 (Ottawa-Gatineau area or international) or toll-free: 1-800-333-0510 (In Canada)
+Online: http://www�tc�gc�ca/recalls
+13INTRODUCTION
+VIN and Engine Serial Number
+Be sure to record the VIN number, engine serial number and name plate information in the spaces below:
+Vehicle identification number:
+Engine serial number:
+1
+2
+1 VIN No� 2 Engine serial No�
+14SPECIFICATIONS
+Specifications
+650-3US
+Performance
+Max� power 60�3 Hp (45 kw) / 8750 rpm
+Max� torque 41�3 ft-lb (56 N•m) / 7000 rpm
+Top designed speed 105�6 mph (170 km/h)
+Size
+Length 85�8 in (2180 mm)
+Width 32�9 in (835 mm)
+Height 52�4 in (1332 mm)
+Wheelbase 56�1 in (1425 mm)
+Ground clearance 5�9 in (150 mm)
+Curb weight 509�3 lb (231 kg)
+Engine
+Type Cylinder in-line, two cylinder, four stroke, liquid cooled
+Displacement 649 mL
+Bore×Stroke 3�27 in × 2�36 in (83 mm × 60 mm)
+Compression ratio 11�3±0�5：1
+Starting system Electric starter
+Fuel supplying system EFI
+Ignition control system ECU Ignition
+Lubricating system Pressure / splash lubrication
+Oil capacity When changing an oil filter: 2.32 qt (2.2 L)
+15SPECIFICATIONS
+First choice: SAE 10W-40 SJ JASO-MA2
+Engine oil type Second choice：SAE 10W-30 SJ / SAE 10W-50 SJ / SAE 20W-40 SJ / SAE
+20W-50 SJ JASO-MA2
+Idle Speed 1450 r/min ± 150 r/min
+Transmission
+Transmission type 6-speed, manual gear shift
+Clutch type Wet, multi-disc, manual
+Driving system Chain drive
+Primary reduction ratio 2�095
+Final reduction ratio 3�067
+1st 2�353
+2nd 1�714
+3rd 1�333
+Gear ratio
+4th 1�111
+5th 0�966
+6th 0�852
+Chassis
+Front 120/70ZR17 M/C 58W
+Tire size
+Rear 160/60ZR17 M/C
+Front 3�5×17 MT
+Rim size
+Rear 4�5×17 MT
+Capacity of fuel tank 4�8 gal ± 0�13 gal (18 ± 0�5 L)
+Fuel consumption 5�4 L/100 km
+16SPECIFICATIONS
+Electric components
+Battery 12V/9 Ah
+Headlight LED
+Tail / brake light LED
+Turn signals LED
+17OPERATOR SAFETY
+Operator Safety
+General Safety Precautions
+WARNING
+Failure to heed the warnings contained in this manual can result in serious injury or death� This vehicle is
+not a toy and can be hazardous to operate�
+Read this owner’s manual� Understand all safety warnings, precautions and operating procedures before
+operating this vehicle�
+Riding Restrictions
+This vehicle is an ADULT VEHICLE ONLY� The operator must acquire a driving license as required by local
+laws and regulations�
+Know Your Vehicle
+As the operator of the vehicle, you are responsible for your personal safety, the safety of others, and
+the protection of the environment. Read and understand your owner's manual, which includes valuable
+information about all aspects of your vehicle, including safe operating procedures�
+18OPERATOR SAFETY
+Equipment Modifications
+CFMOTO is concerned with the safety of our customers and for the general public� Therefore, we strongly
+recommend that consumers do not install on a vehicle, any equipment that may increase the speed or
+power of the vehicle, or make any other modifications to the vehicle for these purposes. Any modifications
+to the original equipment of the vehicle create a substantial safety hazard and increase the risk of body
+injury� The warranty on your vehicle is terminated if any unapproved accessory equipment has been added
+to the vehicle, or if any modifications have been made to the vehicle that increase its speed or power.
+Avoid Carbon Monoxide Poisoning
+All engine exhaust contains carbon monoxide, a deadly gas� Breathing carbon monoxide can cause
+headaches, dizziness, drowsiness, nausea, confusion and eventually death�
+Carbon monoxide is a colorless, odorless, tasteless gas that may be present even if you do not see or
+smell any engine exhaust� Deadly levels of carbon monoxide can collect rapidly, and you can quickly be
+overcome and unable to save yourself� Also, deadly levels of carbon monoxide can linger for hours or days
+in enclosed or poorly ventilated areas�
+To prevent serious injury or death from carbon monoxide:
+• Never run the vehicle in poorly ventilated or partially enclosed areas�
+• Never run the vehicle outdoor where engine exhaust can be drawn into a building through openings
+such as windows and doors�
+19OPERATOR SAFETY
+Avoid Gasoline Fires and Other Hazards
+Gasoline is extremely flammable and highly explosive. Fuel vapors can spread and be ignited by a spark
+or flame many feet away from the engine. To reduce the risk of fire or explosion, follow these instructions:
+• Strictly adhere to proper fueling procedures�
+• Never start or operate the engine if the fuel cap is not properly installed� Gasoline is poisonous and
+can cause injury or death�
+• Never siphon gasoline by mouth�
+• If you swallow gasoline, get any in your eye ( s ) , or inhale gasoline vapor, see a doctor immediately.
+• If gasoline spills on you, wash with soap and water and change your clothes�
+Fuel Minimum Octane Rating and Safety Warnings
+The recommended fuel for your vehicle is 87 octane or premium unleaded only (a maximum blend of
+10% ethanol is allowed). Non-oxygenated ( ethanol-free ) fuel is recommended for best performance in all
+conditions�
+20OPERATOR SAFETY
+WARNING
+Gasoline is highly flammable and explosive under certain conditions.
+Allow the engine and exhaust system to cool before filling the tank.
+Always exercise extreme caution whenever handling gasoline�
+Always refuel with the engine stopped, and outdoors or in a well ventilated area�
+Do not smoke or allow open flames or sparks in or near the area where refueling is performed, or where
+gasoline is stored�
+Do not overfill the tank. Do not fill to the tank neck.
+If gasoline spills on your skin or clothing, immediately wash it off with soap and water and change
+clothing� Never start the engine or let it run in an enclosed area� Engine exhaust fumes are poisonous
+and can cause loss of consciousness or death in a short time�
+The engine exhaust from this product contains chemicals known to cause cancer, birth defects or other
+reproductive harm� Operate this vehicle only outdoors or in well-ventilated areas�
+Avoid Burns from Hot Parts
+The exhaust system and engine become hot during operation� Avoid contact during and shortly after
+operation to avoid burns�
+21OPERATOR SAFETY
+Owner Responsibilities
+Be Qualified and Responsible
+Read this Owner’s Manual and the warning decals on this vehicle carefully� Take a safety training course
+on open areas if available� Practice at low speeds� Higher speeds require greater experience, knowledge
+and suitable riding conditions� Become completely familiar with the operational controls and the general
+operation of the vehicle�
+This vehicle is an ADULT VEHICLE ONLY� The operator must acquire a driving license as required by local
+laws and regulations� Operators must be tall enough with physical capacity to: be properly seated, hold the
+handlebar with both hands, fully stroke the clutch lever with the left hand, fully stroke the brake lever with
+the right hand, fully stroke the foot brake lever with the right foot, be able to firmly plant both feet on the
+foot pegs, and be able to balance the vehicle with the feet when stopped�
+Carrying a Passenger
+• The operator must acquire a driving license as required by local laws and regulations for models
+equipped to carry passengers�
+• Only carry one passenger� The passenger must be properly seated in the passenger seat� The
+passenger should be tall enough to always be properly seated when holding handhold, and feet
+firmly planted on the foot pegs.
+• Instruct the passenger to read the vehicle’s safety labels�
+• Never carry a passenger who has used drugs or alcohol, or is tired or ill� These slow reaction time
+and impair judgment�
+• Never carry a passenger if you judge their ability or judgment is insufficient to concentrate on the
+terrain conditions and adapt accordingly�
+22OPERATOR SAFETY
+Safe Riding Gear
+Always wear clothing suited to the type of riding for the driver and
+passenger, includes:
+1 An approved helmet
+1
+2 Eye protection�
+3 Gloves
+4 Long sleeve shirts or jackets
+5 Long pants
+2
+6 Over-the-ankle boots
+According to the actual weather, you may need extra apparel, such
+as anti-fog eye protection, thermal underwear and a face guard
+for cold weather� The operator must never wear loose clothing that
+3 4
+may get entangled in the vehicle or on tree branches and shrubs�
+5
+Helmet and Eye Protection
+An approved helmet can prevent a serious head injury if an
+accident occurs� Please note that even the best helmet is no
+guarantee against injury�
+6
+The helmet you choose should meet the standard for your country
+or area� A closed-face helmet with face shield will be better at
+preventing impacts from insects, flying rocks, dust and scattered
+debris, etc�
+23OPERATOR SAFETY
+An open-face helmet cannot offer the same protection for your face and jaw. Please wear detachable face
+masks and goggles when wearing an open-face helmet�
+Do not depend on eyeglasses or sunglasses for eye protection, as they are not rated for impact protection�
+Debris may fly up and or break the lens, causing eye injury.
+Use tinted masks or goggles only during the day in bright light, do not use them at night or in poor light�
+They may affect your ability to distinguish colors. Do not use them if your color discrimination is affected.
+Gloves
+Full-finger gloves could protect your hands from wind, sun, heat, cold, and splash. Well-fitted gloves are
+helpful for steering and relieve hand fatigue. If the gloves are too heavy, it will be difficult to operate the
+vehicle�
+A pair of strong motorcycle gloves offer protection for your hands in the event of an accident or turnover.
+Snowmobile gloves offer better protection when operating in cold areas.
+Jackets, Pants and Motorcycle Suits
+Wear a jacket or a long sleeved shirt and long pants, or a full riding suit� Quality protective gear will provide
+comfort, and it can help you avoid being distracted by adverse environmental elements� In case of an
+accident, good quality protective gear made of sturdy material may prevent or reduce injury�
+In cool-weather riding, protect yourself against hypothermia� Hypothermia, a condition of low body
+temperature, can cause loss of concentration, slowed reactions and loss of smooth, precise muscle
+movement� In cool conditions, proper protective gear like a windproof jacket and insulated layers of
+clothing are essential� Even while riding at moderate temperatures, you can feel very cold due to the wind�
+Protective gear that is appropriate for cold-weather riding may be too hot when stopped� Dress in layers
+so that clothing can be removed as desired� Topping the protective gear with a windproof outer layer can
+prevent cold air from reaching the skin�
+24OPERATOR SAFETY
+Boots
+Always wear closed-toe, over-the-ankle boots. Sturdy over-the-ankle boots with non-slip soles offer more
+protection, and allow you to plant your foot properly on the foot pegs� Avoid long shoelaces that could get
+tangled in the vehicle components� For winter riding conditions, rubber-soled boots with either nylon or
+leather uppers and removable felt liners are best suited� Avoid rubber rain boots� Rubber rain boots may
+get trapped behind the foot brake pedal, impairing proper operation�
+Other Riding Gear
+Rain Gear
+When riding in rainy weather, a rain suit or a waterproof riding suit is recommended� On long rides, it is a
+good idea to carry rain gear� Keeping clothes dry results in being much more comfortable and alert�
+Hearing Protection
+Long-term exposure to wind and engine noise when riding can cause permanent hearing loss� Properly
+worn hearing protective devices such as earplugs can help prevent hearing loss� Check local laws before
+using any hearing protective devices�
+25OPERATOR SAFETY
+Potential Hazard Warnings
+WARNING
+POTENTIAL HAZARD:
+Operating this vehicle without proper instruction�
+WHAT CAN HAPPEN:
+The risk of an accident is greatly increased if the operator does not know how to operate the vehicle
+properly in different situations and on different types of terrain.
+HOW TO AVOID THE HAZARD:
+Beginning and inexperienced operators should complete a safety training course if offered by dealer�
+Operators should regularly practice the skills learned in the course and any operating techniques
+described in the owner’s manual�
+WARNING
+POTENTIAL HAZARD:
+Failure to follow the age recommendations for this vehicle�
+WHAT CAN HAPPEN:
+Severe injury and/or death could occur if a child under the minimum age recommendation operates this
+vehicle� Even though a child may be within the recommended age group for operating, he/she may not
+have the skills, abilities, or judgment needed to operate safely and could be susceptible to accident or
+injury�
+HOW TO AVOID THE HAZARD:
+The operator must acquire a driving license as required by local laws and regulations�
+26OPERATOR SAFETY
+WARNING
+POTENTIAL HAZARD:
+Operating this vehicle without wearing approved helmet, eye protection, and protective clothing�
+WHAT CAN HAPPEN:
+Operating without an approved helmet increases the risk of a severe head injury or death in the event of
+an accident� Operating without eye protection could result in an accident and could increase the chance
+of a severe eye injury in the event of an accident� Operating without protective clothing could increase the
+chance of a severe injury�
+HOW TO AVOID THE HAZARD:
+Always wear an approved helmet that fits properly. Always wear eye protection ( goggles or face shield ) ,
+gloves, long-sleeved shirt or jacket, long pants, and over-the-ankle boots�
+WARNING
+POTENTIAL HAZARD:
+Operating the vehicle after consuming alcohol or drugs�
+WHAT CAN HAPPEN:
+Consumption of alcohol and/or drugs could seriously affect operator judgment� Reaction time may be
+slower and operator balance and perception could be affected� Consumption of alcohol and/or drugs
+before or while operating a vehicle could result in an accident causing severe injury or death�
+HOW TO AVOID THE HAZARD:
+Never consume alcohol or drugs before or while operating the vehicle�
+27OPERATOR SAFETY
+WARNING
+POTENTIAL HAZARD:
+Operating at excessive speeds�
+WHAT CAN HAPPEN:
+Excessive speed increases the operator’s chance of losing control, which can result in an accident�
+HOW TO AVOID THE HAZARD:
+Always operate at a speed that’s proper for the terrain, visibility and operating conditions, and your
+experience�
+WARNING
+POTENTIAL HAZARD:
+Attempting slides, jumps, and other stunts�
+WHAT CAN HAPPEN:
+Attempting stunts increases the chance of an accident, including an overturn�
+HOW TO AVOID THE HAZARD:
+Never attempt slides, jumps, or other stunts�
+28OPERATOR SAFETY
+WARNING
+POTENTIAL HAZARD:
+Failure to inspect the vehicle before operating� Failure to properly maintain the vehicle�
+WHAT CAN HAPPEN:
+Poor maintenance increases the possibility of an accident or equipment damage�
+HOW TO AVOID THE HAZARD:
+Always inspect your vehicle before each use to make sure it is in safe operating condition�
+Always follow the inspection and maintenance procedures and schedules described in the owner’s
+manual�
+WARNING
+POTENTIAL HAZARD:
+Operating this vehicle with improper tires, or with improper or uneven tire pressure�
+WHAT CAN HAPPEN:
+Use of improper tires, or operation of the vehicle with improper or uneven tire pressure, could cause loss
+of control or an accident�
+HOW TO AVOID THE HAZARD:
+Always use the size and type of tires specified in the owner’s manual� Always maintain proper tire
+pressure�
+29OPERATOR SAFETY
+WARNING
+POTENTIAL HAZARD:
+Operating the vehicle with improper modifications.
+WHAT CAN HAPPEN:
+Improper installation of accessories or modification of the vehicle may cause changes in handling which
+could lead to an accident�
+HOW TO AVOID THE HAZARD:
+Never modify the vehicle through improper installation or use of accessories� All parts and accessories
+added to the vehicle must be genuine parts or equivalent components designed for use on this vehicle,
+and they should be installed and used according to approved instructions� Consult your dealer for more
+information�
+30CONTROLS & FEATURES
+Safety Decals and Locations
+Read and understand all of the safety and information labels on your vehicle for safe and proper operation�
+Never remove any labels from your vehicle. If a label becomes difficult to read or falls off, a replacement is
+available from your CFMOTO dealer�
+31CONTROLS & FEATURES
+32CONTROLS & FEATURES
+Vehicle View
+Rear Left View
+1: Instrument
+1
+2: Clutch lever
+3: Handlebar switch, LH
+4: Ignition switch lock
+4
+5: Fuel tank lock
+2
+6: Gear shift lever
+7: Seat lock
+3 5
+8: Passenger handhold
+8
+9: Footrest
+6
+7
+9
+33CONTROLS & FEATURES
+Front Right View
+10: Throttle grip
+11: Handle bar switch, RH
+15 12: Front hand brake lever
+13: Rear brake lever
+11 14: Windshield adjusting knob
+10
+15� Side box lock
+14
+12
+13
+34CONTROLS & FEATURES
+Controls and Features
+Clutch Lever
+Clutch lever 1 is on the left side of handlebar� The clutch is
+cable-operated type�
+Adjust the clutch lever’s distance to the handlebar by turning the
+clutch lever adjusting knob�
+1
+Adjusting knob
+Front Hand Brake Lever
+Front hand brake lever 2 is on the right side of handlebar�
+Front brake caliper activates braking by pulling in the hand
+brake lever�
+Adjust the braking lever’s distance to the handlebar by turning
+2
+the hand brake lever adjusting knob�
+Adjusting knob
+35CONTROLS & FEATURES
+Handlebar Switch, LH
+Left handlebar switch 1 is on the left side of the handlebar�
+Function of left handlebar switch
+Turn to this position, high beam
+1
+Dimmer push lights on�
+2
+switch Turn to this position, low beam
+lights on�
+Press to shift between ECO 3
+3 Mode button MODE 2
+mode and SPORT mode�
+Push this switch to the right, the 5
+Turning light right turning light will activate�
+4
+4
+switch Push this switch to the left, the
+left turning light will activate�
+5 Horn button Short press, the horn will sound�
+6
+passing light Short press this button, passing
+6
+switch light will flash.
+36CONTROLS & FEATURES
+Handlebar Switch, RH
+Right handlebar switch 1 is on the right side of the handlebar�
+Right handlebar switch function
+Turn to this position, the vehicle
+turns off.
+2 Turn to this position, the vehicle
+Stop switch 5
+is ready to start�
+Push this button to start the
+1
+vehicle�
+Hazard flasher Short press to turn on the
+3
+switch hazard flasher light.
+Turn to this position, headlight,
+position light and taillight will be
+on� 2
+Turn to this position, position
+4 Light switch
+light and taillight will be on�
+Turn to this position, headlight,
+3
+● position light and taillight will be
+off.
+4
+Throttle Grip
+Throttle grip 5 is on the right side of handlebar�
+37CONTROLS & FEATURES
+Locks
+Ignition switch 1
+Turn the handlebar to the left, then turn
+Handlebar lock LOCK the key to the lock indicator to lock the
+handlebar�
+Turn the key to this position, the engine
+1
+Turn off OFF cannot be started and the vehicle
+power circuit is disconnected�
+Turn the key to this position, the engine
+Start ON can be started and the vehicle power
+circuit is connected�
+Side Box Lock
+Open the side box�
+3
+2
+Tum the key 1 by clockwise until the buckle 2 flipped.
+Push up the switch 3 from the clearance of buckle 2 to open
+the side box�
+Lock the side box 1
+Close the side box and press down the buckle 2
+Note: lnspect if the side box closed normally, avoid accidental
+opening of the side boxes during driving
+38CONTROLS & FEATURES
+Fuel Tank Lock
+Follow the items below before opening the fuel tank:
+The vehicle is stopped.
+Engine is off.
+1
+Open the fuel tank lock cover�
+Insert the key and turn to release the lock�
+Open the fuel tank cap�
+Windshield Adjusting Knob
+Adjust the adjusting knobs on the two sides of windshield
+towards the rear direction of the vehicle�
+Move up or down the windshield to your desired position�
+Lock the adjusting knob toward the vehicle head direction�
+Adjusting Knob
+39CONTROLS & FEATURES
+Seat Lock 1
+The seat lock is on the left side of the vehicle�
+The seat can be removed by inserting the key and turning to
+release the lock�
+1
+Gear Shift Lever
+66
+The gear shift lever 2 is on the left side of the engine�
+55
+44
+33
+22
+NN
+11
+2
+40CONTROLS & FEATURES
+Rear Brake Lever
+The rear brake lever 1 is on the right side of the engine�
+Activate the rear brake by pushing down on the rear brake lever�
+1
+Side Stand 2
+The side stand 2 is on the left side of the vehicle, and is used
+for parking�
+NOTE: When the side stand is down, the engine starting system
+only activates in neutral gear�
+41CONTROLS & FEATURES
+Passenger handhold and footrest
+A passenger handhold 1 is mounted on the motorcycle seat for
+passenger to hold on during riding�
+1
+Footrests 2 are mounted on the motorcycle for the operator
+and passenger�
+2
+42OPERATING YOUR VEHICLE
+TFT Instrument (Select markets)
+1 2 1
+Instrument
+Instrument is located at the front of handlebar, there are two
+function areas:
+1 ：Instrument indicators area
+2 ：Instrument display area
+Activation and Test
+Activation
+The instrument is activated when vehicle power is on�
+Test
+Display area shows welcome words and indicators flash in short
+time for self inspection� All instrument buttons is invalid at this
+time until the starting video is finished.
+43OPERATING YOUR VEHICLE
+Instrument Indicators
+1 1
+2 5
+3 6
+4 7
+8
+44OPERATING YOUR VEHICLE
+Ref Symbol Function
+1 Flash Indicator flashes when the turning light turns on.
+2 Keep on Position light indicator will be on when position light turns on�
+When electric circuit is connected and engine is off, EFI fault
+indicator will be on� If the engine is not off and the indicator
+is still on, it means the vehicle detects any fault, the fault will
+3 Keep on
+be displayed on the dashboard for warning� Please stop the
+vehicle in place according to traffic regulations when EFI fault
+indicator is on and contact your CFMOTO dealer soon�
+When the vehicle is powered on, the ABS indicator will flash
+until the vehicle begins to move at speeds above 3-5 mph (5km/
+h~8km/h) and remains off until the next power on or a fault
+occurs� This is normal�If a fault is detected, the ABS indicator
+4 Flash / Keep on
+turns on and stays on� The ABS is automatically deactivated
+in a fault condition, but the vehicle retains full basic braking
+function� Please drive at slow speeds, avoid hard braking, and
+contact your CFMOTO dealer as soon as possible�
+5 Keep on High beam indicator will be on when high beam lamp turns on�
+45OPERATING YOUR VEHICLE
+Fuel level indicator will be on when fuel level is very low� Please
+plan your trip reasonably and fill fuel soon. When detect faults,
+6 Flash / Keep on
+the fuel level indicator will flash. Please contact your CFMOTO
+dealer soon�
+Coolant temp� indicator will flash when the coolant is in high
+temperature� Please stop the vehicle in place according to
+7 Flash traffic regulations to wait for cooling down the temperature� If
+the coolant temp� indicator flashes frequently, please contact
+your CFMOTO dealer soon�
+Oil pressure indicator lights on when the oil level is very low or
+8 Keep on oil pump can not work normally or the oil tube may be blocked,
+stop the engine immediately and inspect the reason�
+46OPERATING YOUR VEHICLE
+Instrument Display(ECO mode)
+1 2 3
+4
+10
+5
+6
+9 7
+8
+1 Clock 5 Coolant Temp� 9 Optional Info 2 Display
+2 Speed Display 6 Fuel Level 10 Engine RPM
+3 Blue Tooth 7 Optional Info 1 Display
+4 Gear Position 8 Vehicle Mode
+47OPERATING YOUR VEHICLE
+Instrument Display(SPORT mode)
+1 10 3
+4
+9
+7
+8 2 5 6
+1 Clock 5 Coolant Temp� 9 Optional Info 2 Display
+2 Speed Display 6 Fuel Level 10 Engine RPM
+3 Blue Tooth 7 Optional Info 1 Display
+4 Gear Position 8 Vehicle Mode
+48OPERATING YOUR VEHICLE
+Clock
+Display the current time� The clock is adjustable and can be
+shifted between 12 hours and 24 hours through the menu�
+PM 10:50 22:50
+Speed Display
+Display the current vehicle speed�
+Speed unit could be shifted between km/h and mph through the
+menu operation� 124 199
+mph km/h
+49OPERATING YOUR VEHICLE
+Blue Tooth
+When cellphone is paired with the instrument, this area will
+appear the blue tooth symbol, cellphone signal strength and
+cellphone battery gauge�
+Gear Position
+Display the current gear position� Neutral position is displayed
+in green color�
+NN
+50OPERATING YOUR VEHICLE
+Coolant Temperature H H
+The coolant temperature indicator consists of bars, the more
+bars light up, the hotter the coolant� When the last bar lights
+on and the coolant temperature indicator flashes, it means the
+temperature reach the danger limit�
+WARNING
+Overheating could lead to engine damage�
+When coolant temperature reaches the top limit, please stop C C
+well the vehicle to wait for cooling down�
+Check and correct the coolant level when coolant system is
+totally cooled down�
+If the coolant temperature indicator flashes in high frequency,
+F F
+please contact your CFMOTO authorized dealer for service�
+Fuel Level
+The fuel level display consists of bars, More bars are lighted,
+more fuel is in the fuel tank� When the fuel reserve is closed
+to limited level, the last indicator bar will light on, fuel level
+indicator will also light on, and it will appear the reminding
+“warning: insufficient fuel” in the home interface. Please arrange E E
+well the travel and refill fuel soon. Little fuel quantity may lead to
+damage of fuel pump�
+51OPERATING YOUR VEHICLE
+Optional Information
+Customer could select two items that displayed in the home interface�
+Optional Info 1：ODO, trip1, trip 2�
+Optional Info 2：Voltage, instantaneous fuel consumption, trip 1 travel time, trip 2 travel time, total
+odometer travel time, trip 1 average fuel consumption, trip 2 average fuel consumption, total odometer
+average fuel consumption, trip 1 average speed, trip 2 average speed, total odometer average speed�
+Vehicle Mode
+The vehicle could shift the drive mode between SPORT mode
+and ECO mode to meet different driving experience.
+ECO SPORT
+52OPERATING YOUR VEHICLE
+Engine RPM
+Please avoid high engine RPM during break-in period� 12
+10
+In order to increase the engine life, please keep RPM away
+8
+from the red area�
+6
+Before finishing warming the engine, do not run in high engine
+RPM� 4
+2
+0
+6
+5 7
+4 8
+3 9
+2 10
+1 11
+0 ×1000r/min 12
+53OPERATING YOUR VEHICLE
+Instrument Menu
+Adjust the instrument setting through the menu for better driving
+Information
+experience�
+Long press the “ENTER” button on the handlebar switch to
+enter into instrument menu�
+WARNING
+Instrument menu can be entered only when the vehicle is
+stopped and safety�
+Instrument Switches
+Instrument switches are located on the right side of left
+handlebar, used for operating instrument functions�
+△ Short press to choose the upper item�
+Short press to enter into next menu�
+ENT
+Long press to enter into menu from home interface�
+Short press to return back to the last item�
+Long press in menu interface to return back to
+home interface�
+▽ Short press to choose the next item�
+54OPERATING YOUR VEHICLE
+Voltage and Coolant Temp�
+Long press “ENTER” button to enter into menu.
+Information
+Short press “ △ ” or “ ▽ ” to mark “Information” item, press
+“ENTER” button to enter into the item.
+Voltage and coolant temp� information is displayed in this
+information list�
+Warning
+The instrument displays the fault warning and fault content when the vehicle detects faults� Please
+eliminate the vehicle fault soon when appears fault warning, contact your authorized CFMOTO dealer for
+service if necessary�
+Before eliminated, the fault warning will appear in the instrument for ten seconds every time when start the
+vehicle. Please enter into the “menu-warning” to check the fault content
+55OPERATING YOUR VEHICLE
+Long press “ENTER” to enter into menu.
+Short press “ △ ” or “ ▽ ” to select the “Information”, press
+Information
+“ENTER” to open the select item.
+Short press “△” or “▽” to select “warning”, press “ENTER” to
+open warning item�
+Warning item will display all current faults of the vehicle, please
+contact CFMOTO authorized dealer to eliminate all the faults�
+Information Information
+Example with fault� Example without fault�
+56OPERATING YOUR VEHICLE
+Service
+This vehicle has a service interval feature that activates after
+Information
+the break-in period� The instrument alerts the owner to schedule
+vehicle maintenance when the remaining distance is 500km
+(310 miles) or less of the set service interval� At this time, the
+instrument will display a service alert for ten seconds every time
+the vehicle is started to remind the owner�
+Long press “ENT” to enter the menu.
+Short press “ △ ” or “ ▽ ” to select “Information.” Then press
+“ENT” to open the selected item.
+Information
+Short press “△” or “▽” to select “Service.” Then press “ENT”
+to open the Service interface� The remaining distance to service
+maintenance will display�
+Reset Service Reminder
+On the Service interface, press and hold “ENT” and “ △” for
+10 seconds minimum�
+A pop-up window asking to reset will appear. Press “ENT” again
+to confirm your choice and complete the reset.
+Or you can ask an authorized CFMOTO dealership to service
+the vehicle and then reset the service interval�
+57OPERATING YOUR VEHICLE
+Miles Info
+The following information is recorded for trip 1, trip 2 and
+Information
+ODO：
+Miles Info
+1：Mileage
+2：Speed Version Info
+3：Consumption
+4：Riding time
+Long press “ENTER” to enter into the menu.
+Short press “ △ ” or “ ▽ ” button to select “Information” item,
+press “ENTER” to open the item.
+Short press “△” or “▽” button to select the “Trip info”, press Information
+“ENTER” to open trip info item.
+Short press “ △ ” or “ ▽ ” button to select desired item, press
+“ENTER” to open the next menu.
+58OPERATING YOUR VEHICLE
+Version Info
+Check the current software and hardware version of the vehicle�
+Information
+Long press “ENTER” to enter into menu.
+Miles Info
+Short press “ △ ” or “ ▽ ” button to select “Information”, press
+VVeerrssiioonn IInnffoo
+“ENTER” button to open the information item.
+Short press “△” or “▽” button to select the software version
+or hardware version, press “ENTER” button to open the select
+item�
+Information Version Info
+Bluetooth ID CFMOTO-XXXXXX
+V1.3
+V1.0
+59OPERATING YOUR VEHICLE
+Units
+Shift the unit for speed, time and temperature through
+instrument operation�
+Information
+Long press “ENTER” button to enter into the menu.
+Short press “ △ ” or “ ▽ ” button to select “Settings”, press
+“ENTER” button to open setting item.
+Short press “△” or “▽” button to select “units”, press “ENTER”
+button to open the unit setting item�
+Short press “Cu △rrent tim ”e f oorm ra t “▽” buttonCur re tn ot te m sper eatu lre e fo crma tt the desireCu drre nt u tem npe ira ttu ,r e pform ra et ss
+12-hour 12 °C °C °C °C
+“ENTER” to 2o4-hpouren the unit item. °F °F
+CuCrurerrnetn mt imleialegaeg uen uitnit CurreCnut rmreilneta tgime eu nfoitrmat Current temperature format CurrInefonrtm attiimone format
+kmk/mh/h kmkm/h/h k1m2/-hhour km1/2h °C °C 12-hour 12
+°F
+mpmhph m2p4h-hour 24-hour
+Short press “△” or “▽” button to select desired format, press
+“ENTER” to finish the unit shifting.
+60OPERATING YOUR VEHICLE
+Connection
+Pair the cellphone with instrument by bluetooth, then navigation,
+calling function can be used� Navigation function can be used
+Inroemation
+with CFMOTO APP�
+Follow the steps to pair the bluetooth:
+Long press “ENTER” to enter into the menu.
+Short press “ △ ” or “ ▽ ” button to select “Settings”, press
+“ENTER” button to open the setting item.
+Short press “ △ ” or “ ▽ ” button to select “Connection”, press
+“ENTER” button to open the device connection item.
+Information
+Short press “ △ ” or “ ▽ ” button to select “Bluetooth” button,
+press “ENTER” button to open bluetooth item.
+61OPERATING YOUR VEHICLE
+Make sure the cellphone bluetooth is open�
+Short press “ △ ” or “ ▽ ” button to select “Connect a new
+Information
+device”, press “ENTER” button to search devices.
+Devices that have been connected will be recorded in the menu�
+Select the device to pair directly�
+Display connected after finish pairing.
+62OPERATING YOUR VEHICLE
+Follow the steps to eliminate the device paired before:
+Long press “ENTER” to enter into the menu.
+Short press “△” or “▽” to select “Settings”, press “ENTER” to Information
+open the setting item�
+Short press “△” or “▽” to select the device connection, press
+“ENTER” to open the device connection item.
+Short press “△” or “▽” to select “Delete connections”, press
+“ENTER” button to open the item.
+Short press “△” or “▽” to select the desired device or all of
+the devices, press “ENTER” to delete.
+Short press “△” or “▽” to select “Confirm” or “Cancel”, press Information
+“ENTER” button to delete the devices or return back to the last
+item�
+Cancel
+63OPERATING YOUR VEHICLE
+Optional Info 1
+Choose one item from optional information 1 to display in the
+home interface� Information
+Long press “ENTER” to enter into the menu.
+Short press “ △ ” or “ ▽ ” button to select “Settings”, press
+“ENTER” button to open the setting item.
+Short press “ △ ” or “ ▽ ” button to select “Optional Info 1”,
+press “ENTER” button to open the item.
+Short press “ △ ” or “ ▽ ” button to select desired item, press
+“ENTER” button to confirm the choice.
+Information
+64OPERATING YOUR VEHICLE
+Optional Info 2
+Choose one item from optional information 2 to display in the
+Information
+home interface�
+Long press “ENTER” to enter into the menu.
+Short press “ △ ” or “ ▽ ” button to select “Settings”, press
+“ENTER” button to open the setting item.
+Short press “ △ ” or “ ▽ ” button to select “Optional Info 2”,
+press “ENTER” button to open the item.
+Short press “ △ ” or “ ▽ ” button to select desired item, press
+“ENTER” button to confirm the choice.
+65OPERATING YOUR VEHICLE
+Brightness
+In addition to the automatically adjustment of the brightness,
+Information
+the instrument brightness can also be adjusted by manual
+according to the menu�
+Long press “ENTER” to enter into the menu.
+Short press “ △ ” or “ ▽ ” button to select “Settings”, press Trip 1 Reset
+“ENTER” button to open the item.
+Short press “ △ ” or “ ▽ ” button to select “Brightness”, press
+“ENTER” to open the item.
+Short press “ △ ” or “ ▽ ” button to select the class of
+brightness, press “ENTER” to confirm the choice.
+Brightness
+5
+66OPERATING YOUR VEHICLE
+Trip Reset
+Reset trip data by manual�
+Long press “ENTER” to enter into the manual. Information
+Short press “ △ ” or “ ▽ ” button to select “Settings”, press
+“ENTER” button to open the item.
+Short press “△” or “▽” button to select “Trip 1 Reset” or “Trip Trip 1 Reset
+2 Reset”, press “ENTER” button to open the item.
+Short press “ △ ” or “ ▽ ” button to select “OK” or “Cancel”,
+press “ENTER” to reset trip or return back to last item.
+Information
+Trip 1 Reset
+OK
+67OPERATING YOUR VEHICLE
+Time Settings
+Adjust the instrument time�
+Information
+Long press “ENTER” to enter into menu.
+Short press “△” or “▽” to select “Settings”, press “ENTER” to
+open the item��
+Short press “ △ ” or “ ▽ ” to select “Time Settings”, press
+“ENTER” to open the item.
+12 hour: Short press “△” or “▽” to select “AM” or “PM”, press
+“ENTER” to adjust the time. Short press “△” or “▽” to adjust
+hour, press “ENTER” button to enter into minute, short press “△”
+or “▽” to adjust minutes.
+24 hour: Short press “△” or “▽” to adjust hour, press “ENTER” Information
+to enter into minute, short press “△” or “▽” to adjust minutes.
+68OPERATING YOUR VEHICLE
+Language
+Shift the dashboard language between Chinese and English�
+Long press “ENTER” to enter into menu. Information Trip 2 Reset
+Short press “ △ ” or “ ▽ ” to select “Settings”, press “ENTER”
+button to open the item�
+Short press “△” or “▽” to select “Language”, press “ENTER”
+button to open the item�
+Short press “ △ ” or “ ▽ ” to select desired language, press
+“ENTER” to confirm the selection.
+Information
+69OPERATING YOUR VEHICLE
+Reset All
+Reset all settings back to factory status�
+NOTICE Information Trip 2 Reset
+This function can not reset odometer and related function� Time Settings
+Long press “ENTER” to enter into the menu.
+Short press “△” or “▽” button to select “Settings”, press Reset All
+“ENTER” button to open the item.
+Short press “ △ ” or “ ▽ ” button to select “Reset all”, press
+enter to open the item�
+Short press “△” or “▽” button to select ‘OK” or “Cancel” to
+reset the instrument or return back to last item�
+Information
+Reset All
+OK
+70OPERATING YOUR VEHICLE
+Navigation
+Pair cellphone with the instrument, turn on CFMOTO APP then
+Information
+navigation function can be used�
+Open the navigation in CFMOTO APP, then the instrument shifts
+into navigation interface automatically�
+Open the navigation by manual:
+Long press “ENTER” button to enter into the manual.
+Short press “ △ ” or “ ▽ ” button to select “Navigation”, press
+“ENTER” button to open the item.
+If CFMOTO APP does not activate, the instrument will display “
+Information
+Please Open CFMOTO APP For Navigation”
+！
+71OPERATING YOUR VEHICLE
+The instrument will display navigation interface when it activates
+in the cellphone�
+485m Distance to the next
+crossroads�
+18km Traffic navigation symbol
+18km 18km Remaining distance to the
+destination�
+11:00
+11:00
+Estimated arrival time
+11:00
+72OPERATING YOUR VEHICLE
+Telephone
+This function is available when instrument is paired with
+cellphone by bluetooth� (Cellphone should connect with
+earphone and the instrument)
+Please Connect
+If instrument does not pair with cellphone bluetooth, it will
+Bluetooth Correctly
+display reminding “Please Connect Bluetooth Correctly”. Please
+pair bluetooth according to “Device connection”.
+When comes a call during driving, the call number will be
+displayed in the instrument, short press “ENTER” to accept the
+call. Short press “CANCEL” to hang up the call.
+73OPERATING YOUR VEHICLE
+“Telephone” item will record all numbers that called in during this
+bluetooth connection� The records will be reseted when power
+off. Information
+Check the latest calls:
+Press “△” or “▽” button to select “Telephone”, press “ENTER”
+button to open the item�
+Press “ △ ” or “ ▽ ” button to select the latest calls, press
+“ENTER” to open the item.
+74OPERATING YOUR VEHICLE
+Operating Your Vehicle
+Break-in Period
+The break-in period for this vehicle is the first 1000km� Maintain the vehicle according to the break-in
+period requirements�
+The following items should be observed during break-in period:
+1� Do not run at high engine speeds immediately when the engine is just started� Allow the engine to warm
+for 2 ~ 3 minutes at idle speed and let oil flow into all the engine lubricating parts.
+2� Do not run the engine at high Rpm when the transmission is in neutral�
+3� During the break-in period, CFMOTO suggests the top engine speeds as below:
+Total odometer Top engine RPM
+0 km ~ 500 km 4000 r/min
+500 km ~ 1000 km 6000 r/min
+DANGER
+New tires are slippery which may lose control and cause damage� Tire pressures should be at the
+specified value during the 1000km break-in period. Avoid sudden and maximum braking/acceleration and
+hard cornering during the break-in period�
+75OPERATING YOUR VEHICLE
+Daily Safety Inspection
+Checking the following items before daily riding will help keep your vehicle in safe and reliable condition� If
+anything appears unusual, please refer to the Maintenance and Adjustment section or contact your dealer�
+Do not operate the vehicle in an abnormal condition, as it may lead to serious damage or accidents�
+Item Content
+Coolant Inspect the coolant level for correct level in the coolant reservoir�
+Engine oil Inspect the oil level is at the correct level�
+Rear brake fluid Inspect the rear brake fluid reservoir is at the correct level.
+reservoir
+Rear wheel Inspect the rear wheel and tire for excessive wear, cracks or cuts, embedded items
+or other damage� Inspect the rear tire pressure is in the standard range�
+Rear brake Inspect the thickness of rear brake pad� Inspect the thickness of rear brake disc and
+check for any dirt or damage�
+Chain and Inspect the drive chain and sprockets for dirt and wear, and inspect if the chain
+Sprockets tightness is appropriate�
+Front wheel Inspect the front wheel and tire for excessive wear, cracks or cuts, embedded items
+or other damage� Inspect front tire pressure is in the standard range�
+Front brake Inspect the thickness of front brake pad� Inspect the thickness of front brake disc
+and check for any dirt or damage�
+Front brake fluid Inspect the front brake fluid reservoir is at the correct level.
+reservoir
+Luggage/Cargo Inspect the luggage/cargo is fastened securely, make sure the luggage/cargo height
+(if equipped) is within the requirement of local regulation�
+76OPERATING YOUR VEHICLE
+Dashboard Check the fault indicator�
+Fuel Level Check if the fuel tank volume is sufficient.
+Rearview Mirrors Check rearview mirrors for appropriate view angle�
+Light Check if all the lights work well, and if the beam height for front lights meets the local
+regulations�
+Operating parts Inspect the handlebar, steering, front and rear brake, throttle and switches for
+smooth operation�
+Side stand \ main Check if any looseness or damage for the return spring of side stand \ main stand�
+stand
+Stop switch Check that the stop switch works correctly�
+DANGER
+Inspect the vehicle every time before riding the vehicle�
+The operator must have the related driver's license to ride the vehicle.
+Learn the local regulations, and do not ride in the areas where motorcycles are not allowed�
+Do not start the vehicle in a closed area or an area without a good ventilation system� The exhaust
+generated during engine operation may cause people to lose consciousness or even cause death�
+77OPERATING YOUR VEHICLE
+Starting
+Sit on the vehicle with side stand up�
+Turn on the ignition switch�
+Place the transmission in Neutral�
+Turn the stop switch to position “ ”.
+Press the start button�
+CAUTION
+Engine running at high RPMs in cold temperatures negatively impacts the lifespan of engine� Always
+warm the engine at a low speed�
+Before the instrument self-inspection, do not start the vehicle with the start switch�
+Pull the clutch lever and shift into a gear with side stand up, the vehicle can be started�
+When the transmission is in Neutral position with side stand up, the vehicle can be started�
+If shifting into gear with the side stand down, the engine will turn off.
+Do not press the start switch for more than five (5) seconds. Please wait for more than 15 seconds to
+press the start switch again, or it will cause the battery to discharge quickly�
+78OPERATING YOUR VEHICLE
+Starting Off
+Pull in the clutch lever, shift the gearshift lever downward for gear 1, then slowly release the clutch lever
+while at the same time applying gentle throttle input�
+Shifting, Riding
+Pull in the clutch lever and release the throttle�
+Shift the gearshift lever upward for gears 2,3,4,5,6 (as required)�
+Release the clutch lever and slowly apply the throttle at the same time to complete the gear shift�
+Hold the handle bar at all times with both hands when driving with the throttle applied�
+WARNING
+Avoid any abrupt load alterations or strong brake operation, which can cause an out of control vehicle�
+Adjust the speed according to road conditions and situation around you�
+When the engine RPM is high, do not shift into lower gears� Release the throttle first and reduce the
+engine speed�
+All adjustments for vehicle operation should be made when vehicle is at a standstill�
+The passenger must be seated properly on the passenger seat with feet on the rear foot pegs, wearing a
+helmet and other safety protection, and holding onto the operator or grab handle�
+79OPERATING YOUR VEHICLE
+WARNING
+Comply with the local traffic regulations for minimum passenger age.
+Comply with all local traffic regulations. Ride defensively and foresightedly to detect sources of danger
+early on�
+When the tires are cold, their road grip performance is reduced� Use caution and drive with average
+speed for several kilometers until the tires arrive at their available temperature�
+Do not exceed the permitted full payload� Full payload includes the vehicle weight with full fuel tank,
+driver, passenger and luggage/cargo�
+Luggage/cargo sliding will effect the handling performance, inspect that it is fixed tightly on the vehicle,
+and that the width does not exceed 0�15m from the handle bar for both left and right sides�
+In the event of an accident, the damage from crashing could be more serious than it looks� Inspect the
+vehicle completely to make sure it is safe, or take the vehicle to a CFMOTO dealer for inspection�
+Improper gear shifting may lead to damage of the transmission�
+Operate the throttle according to the road conditions and climate� Do not shift gears and be careful
+operating the throttle during turning�
+80OPERATING YOUR VEHICLE
+Brake
+Release the throttle when applying the brake, and use front and rear wheel brake for braking at the same
+time�
+Finish braking before turning, and shift to a lower gear according to the speed required�
+On long distance downhills, use the engine to compression brake and shift to lower gears, but do not allow
+the engine to operate with high RPM. When using engine brake effect, it helps to reduce the braking force
+required of the brake system, and reduce the chance of overheat�
+WARNING
+Moisture and dirt impair the brake system� Brake carefully several times to dry out moisture and remove
+dirt from the brake pads and discs�
+If the hand brake lever and foot brake lever feel soft, stop riding until the brake system is fully inspected
+and the fault eliminated�
+Take your foot off the foot brake lever when you are not braking. Long-time pressing of the foot brake will
+cause brake lining overheating and excessive friction, which will affect service life and safety.
+When carrying a passenger or luggage/cargo, the required braking distance will increase� Please adjust
+the brake time according to vehicle load�
+When the ABS is enabled, you can achieve maximum braking power even on low grip surfaces such as
+sandy, wet or slippery terrain without locking of the wheels�
+81OPERATING YOUR VEHICLE
+Parking
+Stop the vehicle with brake�
+Shift the transmission to Neutral�
+Turn off the ignition switch.
+Park the vehicle on firm, level ground.
+Use side or middle stand (if equipped) to support vehicle�
+Turn the handlebar to the maximum left angle, and lock the handle bar with the key�
+Remove the key�
+WARNING
+When engine is running, do not leave the vehicle unattended�
+Secure the vehicle against use by unauthorized persons�
+Lock the steering when leaving the vehicle unattended�
+After running the vehicle, the temperature will be very high for some parts� Do not touch any parts such as
+the exhaust system, cooling system, engine, or brake system before the vehicle parts have cooled down�
+Do not park the vehicle near materials that are highly flammable or explosive. High temperature parts
+may ignite the materials�
+Using incorrect procedures when parking may cause vehicle to roll away and fall over, which will lead to
+significant damage.
+The middle stand (if equipped) is only intended to support the vehicle and luggage/cargo� When using the
+middle stand to park the vehicle, do not sit on it� Doing so could damage the middle stand, or damage the
+frame, and the vehicle may fall over�
+82SAFETY OPERATION
+Safety Operation
+Safe Riding Technique
+The following cautions are applicable for daily motorcycle use and should be carefully observed for safe
+and effective vehicle operation:
+• For safety, eye protection and a helmet are strongly recommended� You must be aware of safety
+regulations prior to riding the motorcycle� Gloves and suitable footwear should also be used for
+added protection�
+• Wear protective apparel when riding in case of any collision� Protective apparel cannot protect the
+body safely if it is not worn�
+• Before changing lanes, look over your shoulder to make sure the way is safe� Do not rely solely on
+the rearview mirrors� You may misjudge a vehicle’s distance and speed, which can easily cause an
+accident�
+• When going up steep slopes, shift to a lower gear so there’s plenty of power and engine torque
+rather than overloading the engine�
+• When applying the brakes, apply both the front and rear brakes at the same time� Applying only one
+brake for sudden braking may cause the motorcycle to skid and lose control�
+• When going down long downhill slopes, control vehicle speed by releasing the throttle� Use the front
+and rear brakes for auxiliary braking�
+• In wet conditions, rely more on the throttle to control vehicle speed and less on the front and rear
+brakes� The throttle should also be used judiciously to avoid skidding the rear wheel during rapid
+acceleration or deceleration�
+83SAFETY OPERATION
+• Riding at the proper speed and avoiding unnecessary acceleration are important not only for safety
+and low fuel consumption, but also for longer vehicle life and quieter operation�
+• When riding in wet conditions or on loose roadway surfaces, vehicle performance will be reduced�
+All of your actions should be smooth under these conditions� Sudden acceleration, braking or
+turning may cause loss of control�
+• Practice your operating skills� In an empty area, exercise cautiously, slow down, and grip the fuel
+tank with the knees for better stability� When quick acceleration is necessary as in passing, shift to a
+lower gear to obtain the necessary power�
+• Do not downshift at high rpm to avoid damage to the engine�
+• Avoid unnecessary use of fabric tape which may entangle the rider or motorcycle�
+84SAFETY OPERATION
+Additional Cautions for High Speed Operation
+Brakes: Braking is very important, especially during high speed operation� It cannot be over-forced� Check
+and replace pads more often to get better performance�
+Handling: Looseness in the handling parts may cause loss of control� Check to see whether the handlebar
+turns freely but has no shaking, and that the wheels turn without shaking or looseness�
+Tires: High speed operation requires that tires be in good condition� Good condition tires are crucial for
+riding safety. Inspect their overall condition, inflate them to the proper pressure, and check the wheel
+balance�
+Fuel: Have sufficient fuel onboard for high speed operation.
+Engine oil: To avoid engine failure which could result in a loss of control, make sure the oil level is
+maintained between the upper and lower level lines�
+Coolant: To avoid overheating, check and make sure that the coolant level is between the level lines�
+Electrical Equipment: Make sure that the headlights, tail/brake light, turn signals, horn and etc� work
+properly�
+Fasteners: Make sure that all nuts and bolts are tight and that all safety-related parts are in good condition�
+DANGER
+Follow all traffic regulations� Do not ride on the highway over posted speed limits� Riding at too high
+speed on the highway will violate related regulations� Motorcycles may be forbidden to operate on the
+highway in some areas�
+85MAINTENANCE
+Maintenance
+Careful periodic maintenance will help keep your vehicle in the safest, most reliable condition� Inspection,
+adjustment, and lubrication of important components are explained in the maintenance schedule�
+Inspect, clean, lubricate, adjust, and replace parts as necessary� When inspection reveals the need for
+replacement parts, always use genuine parts available from your dealer�
+NOTE:
+Periodic service and adjustments are critical� If you are not familiar with performing safe service and
+adjustment procedures, have a qualified dealer perform the required maintenance for you.
+Pay special attention to the engine oil level during cold weather operation� A rise in engine oil level can
+indicate contaminants collecting in the oil sump or crankcase� Change oil immediately if the oil level begins
+to rise� Monitor the oil level, and if it continues to rise, discontinue use and determine the cause, or see
+your dealer�
+Severe Use Definition
+CFMOTO defines severe vehicle use as:
+• Racing or race-style high RPM use
+• Prolonged low speed, heavy load operation
+• Extended engine idle
+• Short trip cold weather operation
+• Vehicles used in commercial or rental operations
+If your vehicle use matches any of these definitions, decrease the service intervals by 50%.
+86MAINTENANCE
+Key Points of Lubrication Schedule:
+Check all components at the intervals outlined in the Periodic Maintenance Schedule� Items not listed in
+the schedule should be lubricated at the general lubrication interval�
+• Change lubricants more often under severe use, such as wet or dusty conditions�
+• Lubricate before long periods of storage, after pressure washing, or after submerging drive system�
+Item Lubricant Method
+First choice： SAE 10W-40 SJ JASO
+MA2
+Inspect the level from the engine oil
+Engine oil Second choice：SAE 10W-30 SJ / SAE
+view window�
+10W-50 SJ / SAE 20W-40 SJ / SAE 20W-
+50 SJ JASO MA2
+Keep level between upper and lower
+Brake fluid DOT3 OR DOT4
+lines
+87MAINTENANCE
+Break-in Maintenance Schedule
+Break-in Maintenance Interval
+Item (Service whichever interval comes first)
+Calendar Miles Km Remarks
+Engine
+■ Engine oil and oil filter - 600 1000 Replace
+Idle - 600 1000
+Inspect
+Throttle system - 600 1000
+Drive chain and sprockets 600 1000 Inspect / Adjust
+Electrical system
+■ Functions of electrical parts - 600 1000
+Battery - 600 1000 Inspect
+Fuses or circuit breakers - 600 1000
+Brake system
+Brake discs - 600 1000
+Brake pads - 600 1000 Inspect
+Brake fluid level - 600 1000
+Brake lever - 600 1000 Inspect for free play
+Inspect for damage
+■ Brake hoses - 1000
+and sealing
+► = Severe Use Item. Reduce interval by 50% on vehicles subjected to severe use.
+■ = Have an authorized dealer perform repairs that involve this component or system.
+88MAINTENANCE
+Break-in Maintenance Interval
+Item (Service whichever interval comes first)
+Calendar Miles Km Remarks
+Wheels
+Tire condition - 600 1000
+Tire pressure - 600 1000 Inspect
+Wheel bearings - 600 1000
+Suspension system
+Inspect for leaking
+(maintain front forks
+■ Rear shock absorber and front forks - 600 1000 and rear shock
+absorber according
+to the requirement)
+Cooling system
+Coolant level - 600 1000
+■ Coolant - 600 1000
+Inspect
+■ Radiator fan function - 600 1000
+Coolant hoses - 600 1000
+Steering system
+■ Steering bearings - 600 1000 Inspect
+► = Severe Use Item. Reduce interval by 50% on vehicles subjected to severe use.
+■ = Have an authorized dealer perform repairs that involve this component or system.
+89MAINTENANCE
+Break-in Maintenance Interval
+Item (Service whichever interval comes first)
+Calendar Miles Km Remarks
+Other parts
+■ Diagnostic connector - 600 1000 Read with PDA
+Lubricate� inspect
+■ Moving parts - 600 1000
+for flexibility
+■ Bolts and nuts - 600 1000 Inspect for fastness
+Inspect for damage,
+■ Cables and wires - 600 1000
+bending and routing
+► = Severe Use Item. Reduce interval by 50% on vehicles subjected to severe use.
+■ = Have an authorized dealer perform repairs that involve this component or system.
+90MAINTENANCE
+Periodic Maintenance Schedule
+Periodic Maintenance Interval
+Item (Service whichever interval comes first)
+Calendar Miles Km Remarks
+Engine
+Engine oil and oil filter - 3000 5000 Replace
+Oil strainer - 3000 5000 Clean
+■ Clutch - 3000 5000
+Inspect
+Idle - 6000 10000
+■ Coolant 24M 18000 30000 Replace
+Throttle system - 6000 10000 Inspect
+■ Throttle valve - 3000 5000 Clean
+- 6000 10000 Inspect
+►■ Air filter element
+24M 12000 20000 Replace
+- 3000 5000 Inspect
+■ Spark plug
+24M 6000 10000 Replace
+■ Valve clearance 24000 40000 Inspect
+► = Severe Use Item. Reduce interval by 50% on vehicles subjected to severe use.
+■ = Have an authorised dealer perform repairs that involve this component or system.
+91MAINTENANCE
+Periodic Maintenance Interval
+Item (Service whichever interval comes first)
+Calendar Miles Km Remarks
+Electrical system
+■ Functions of electrical parts 12M 6000 10000
+Battery 6M 3000 5000 Inspect
+Fuses or circuit breakers 6M 3000 5000
+Inspect for damage,
+■ Wires 12M 6000 10000
+bending and routing
+Wheels
+12M 6000 10000
+Tire condition
+24M 12000 20000
+12M 6000 10000
+Tire pressure Inspect
+24M 12000 20000
+- 6000 10000
+■ Wheel bearings
+- 18000 30000
+► = Severe Use Item. Reduce interval by 50% on vehicles subjected to severe use.
+■ = Have an authorised dealer perform repairs that involve this component or system.
+92MAINTENANCE
+Periodic Maintenance Interval
+Item (Service whichever interval comes first)
+Calendar Miles Km Remarks
+Brake system
+12M 6000 10000
+Front and rear brake system
+24M 12000 20000
+12M 6000 10000
+Brake discs
+24M 12000 20000
+Inspect
+12M 6000 10000
+► Brake pads
+24M 12000 20000
+12M 6000 10000
+Brake fluid level
+- 12000 20000
+24M 12000 20000
+Brake lever Inspect for free play
+12M 6000 10000
+24M 12000 20000 Inspect for damage
+■ Brake hoses
+12M 6000 10000 and sealing
+■ Brake fluid 24M - - Replace
+► = Severe Use Item. Reduce interval by 50% on vehicles subjected to severe use.
+■ = Have an authorised dealer perform repairs that involve this component or system.
+93MAINTENANCE
+Periodic Maintenance Interval
+Item (Service whichever interval comes first)
+Calendar Miles Km Remarks
+Suspension system
+■ Suspension system - 3000 5000 Inspect
+Inspect for leaking
+12M 6000 10000
+(maintain the parts
+■ Rear shock absorber and front forks
+according to the
+24M 12000 20000
+requirement)
+- 6000 10000
+■ Swing arms Inspect
+- 18000 30000
+Cooling system
+12M 6000 10000
+Coolant level
+24M 12000 20000
+12M 6000 10000
+■ Coolant
+24M 12000 20000
+Inspect
+12M 6000 10000
+■ Radiator fan function
+24M 12000 20000
+12M 6000 10000
+■ Coolant hoses
+48M 18000 30000
+► = Severe Use Item. Reduce interval by 50% on vehicles subjected to severe use.
+■ = Have an authorized dealer perform repairs that involve this component or system.
+94MAINTENANCE
+Periodic Maintenance Interval
+Item (Service whichever interval comes first)
+Calendar Miles Km Remarks
+Frame system
+Frame - 18000 30000 Inspect
+Steering system
+12M 6000 10000
+■ Steering bearings Inspect
+24M 12000 20000
+Chain
+Chain, rear sprocket and engine 12M 6000 10000
+► Inspect
+sprocket 24M 12000 20000
+► = Severe Use Item. Reduce interval by 50% on vehicles subjected to severe use.
+■ = Have an authorized dealer perform repairs that involve this component or system.
+95MAINTENANCE
+Periodic Maintenance Interval
+Item (Service whichever interval comes first)
+Calendar Miles Km Remarks
+Other parts
+12M 6000 10000
+■ Diagnosis connector Read with PDA
+24M 12000 20000
+12M 6000 10000 Lubricate; inspect
+■ Mobile parts
+48M 18000 30000 for flexibility
+12M 6000 10000
+■ Bolts and nuts Inspect for fastness
+48M 18000 30000
+12M 3000 5000 Inspect for damage,
+■ Cables and wires
+24M 9000 15000 bending and routing
+12M 6000 10000 Inspect for cracks,
+■ Pipes, ducts, hoses and sleeves
+48M 18000 30000 sealing and routing
+► = Severe Use Item. Reduce interval by 50% on vehicles subjected to severe use.
+■ = Have an authorized dealer perform repairs that involve this component or system.
+96MAINTENANCE
+Clutch Lever Freeplay
+Check clutch lever smoothness�
+Turn handlebar towards the left to the end�
+Slowly pull the clutch lever until the resistance is evident� Check clutch lever position where the clearance
+is for freeplay。
+Free play：0.2 in ~ 0.6 in (5 mm ~ 15 mm)
+WARNING
+If there is no free play for clutch lever, the clutch will start to slip�
+Check lever free play every time before starting the engine�
+Set the clutch lever freeplay when necessary�
+Clutch lever free play fine adjustment
+Turn handlebar towards the left to the end�
+Loosen lock nut and rotate the adjusting nut for
+adjustment�
+Once the desired freeplay is achieved,
+tighten the lock nut�
+97MAINTENANCE
+Took Kit
+Tool kit 1 is located under the seat� The tools supplied with the 1
+vehicle are helpful for partial maintenance, disassembling and
+assembling�
+98MAINTENANCE
+Fuel System
+Fuel Tank
+Avoid spilling gasoline on the fuel tank when fill with fuel. If a spill occurs, wipe it off immediately to avoid
+pollution or causing danger�
+Fuel tank volume:4�8 gal ± 0�13 gal (18 ± 0�5 L)
+DANGER
+Gasoline is extremely flammable and can be explosive under certain conditions. Always fill fuel in a
+properly ventilated area. Before refueling, turn off the engine and wait for the engine and muffler to cool.
+No smoking or any acts that cause sparks is allowed in the fuel filling area or fuel storage area.
+Never fill the tank excessively. Avoid overflowing onto high temperature parts. The fuel level should not
+exceed the tank opening� As temperature rises, fuel can heat and expand, possibly spilling over and
+damaging motorcycle parts�
+Fuel is toxic and harmful to health� Avoid touching with skin, eyes and clothes� Do not inhale fuel vapor�
+If touched skin, wash with plenty of clean water�
+If touched to eyes, wash eyes immediately with clean water and see a doctor immediately�
+If touched to clothes, change the clothes immediately�
+If swallowed fuel by mistake, see a doctor immediately�
+After maintenance or other repairing parts of the fuel system, please contact your dealer for a complete
+inspection to avoid fuel leaks or other dangers�
+Dispose of fuel properly to avoid damage to the environment�
+99MAINTENANCE
+Fuel Requirement
+This motorcycle is recommended to use only unleaded premium gasoline�
+CAUTION
+Do not use leaded gasoline, as it will destroy the catalytic converter� (For further understanding, please
+refer to more information related to the catalytic converter)
+Be sure to use fresh gasoline� Gasoline oxidate, resulting in loss of octane and volatile compounds� It
+also produces colloidal and lacquer deposits which could damage the fuel system�
+Your CFMOTO engine has been designed to use regular unleaded gasoline with a pump octane number
+([R+M]/2) of 87 or higher� If knocking or pinging occurs, use a different brand of gasoline or premium
+unleaded fuel� Unleaded fuel will give you longer spark plug life and reduced maintenance cost�
+100MAINTENANCE
+Engine Assy
+For the engine, transmission, and clutch to work properly, maintain the engine oil between the upper and
+lower lines on the oil window� During the engine lubrication process, oil not only builds up carbon by-
+product and metallic impurities, but may also consume itself by a small amount�
+Inspect and change the oil in accordance with the Periodic Maintenance Chart�
+DANGER
+Motorcycles with insufficient, deteriorated or highly contaminated engine oil will cause accelerated wear
+and may result in engine or transmission seizure, accident, and injury�
+Engine Oil Level Inspection
+Make sure the vehicle is turned off.
+If the engine was operated prior to turning off, please wait for 2
+to 3 minutes for the oil to settle� A
+Support the vehicle vertically on a level surface� Then view the
+B
+oil level inspection window:
+• If the oil level is within area B, it is at the proper level�
+C
+• If the oil level is located at area A, drain out oil until the
+level is within area B�
+• If the oil level is located at area C, or no oil level is
+viewed, fill the engine with the recommended oil until the
+level is within area B�
+101MAINTENANCE
+Change Engine Oil and Oil Filter
+Park the vehicle by side stand on level ground�
+Idle the engine for several minutes to warm up the oil, then shut
+off the engine. Allow 2 to 3 minutes for the oil to settle.
+WARNING
+Warming up the engine for a long period may lead to high
+temperature of the engine and engine oil� Please wear suitable 1
+protective clothing and safety gloves when changing oil� In the
+event of scalding, wash the affected area immediately with
+running water for more than 10 minutes and seek medical
+attention�
+Place an oil pan under the oil drain bolt�
+Remove the magnetic oil drain bolt and washer 1 �
+Drain out completely the used oil�
+WARNING
+Oil is a toxic substance� Dispose of used oil properly�
+102MAINTENANCE
+Remove the oil filter 2 �
+Apply a small amount of clean oil to the rubber seal ring of the 2
+new oil filter.
+Install the new oil filter�
+CAUTION
+Before mounting the oil filter, applying a thin layer of oil on the
+seal ring prevents the filter from becoming stuck on the engine
+case�
+Clean the oil drain bolt and the area around the oil drain hole�
+Place a new washer on the oil drain bolt, then reinstall it� Torque
+the oil drain bolt to specification.
+Tightening torque: 25 N•m
+103MAINTENANCE
+Remove the oil filling screw plug 3 �
+Fill with 2�32 qt (2�2 L) oil� 3
+Remount the oil filling screw plug.
+Start and idle the engine for several minutes, allowing the oil to
+flow into the oil filter while checking for leaks.
+Turn off the engine.
+Inspect the oil level and adjust according to the level result�
+Engine Oil Capacity SAE 20W-50
+Change with oil filter: 2.32 qt (2.2 L) SAE 20W-40
+Use of any oil other than those recommended may cause SAE 10W-50
+serious engine damage� CFMOTO recommends the use of
+SAE 10W-40
+10W-40/SJ JASO MA2 for 4-stroke engines� Changing engine
+SAE 10W-30
+oil viscosity due to cold environments is acceptable� Reference
+the chart in the right for ambient temperature and viscosity
+-20 -10 0 10 20 30 40(℃)
+choice� 。
+-4 14 32 50 68 86 104( F)
+104MAINTENANCE
+Spark Plug
+The spark plugs should be replaced in accordance with the
+Periodic Maintenance Chart�
+Spark plug maintenance should only be performed by an
+authorized dealer�
+Spark plug type: CR8EI
+Spark plug clearance 1 : 0�027 in ~ 0�035 in (0�7 mm~0�9 mm)
+Tightening torque: 15 N•m
+1
+105MAINTENANCE
+Air Intake and Exhaust System
+Fuel & Exhaust Detecting System
+Fuel & exhaust system optimization is detected by oxygen
+sensors 1 � An oxygen sensor installed on each exhaust pipe
+detects air & fuel combustion condition by measuring oxygen
+density and transferring it as an electrical signal to the ECU� If
+1
+the ECU determines that combustion is not optimal, it will make
+adjustments to fuel injection in accordance with signals from the
+TPS and Intake Air Temperature sensors� By this way, the ratio
+of air against fuel can be optimized for complete combustion�
+Air Intake Valve
+An air intake valve is essentially a valve which allows fresh air to flow only from the air filter into the
+engine� Any air that passes through the air intake valve is prevented from returning� Have a dealer inspect
+the air intake valves in accordance with the Periodic Maintenance Chart� Also, have the air intake valves
+inspected whenever stable idling cannot be obtained, engine power is greatly reduced, or there are
+abnormal engine noises�
+Air intake valve removal and inspection should only be performed by an authorized CFMOTO dealer�
+106MAINTENANCE
+Valve Clearance
+The engine valves and valve seats wear during operation� Adjustment of the valvetrain components should
+be performed by a dealer technician in accordance with the Periodic Maintenance Chart�
+WARNING
+If adjustment of the valve clearance is not performed, it will eventually result in no clearance or cause the
+valves remaining partly open, which reduces performance, creates valve noise, and can cause serious
+engine damage� Valve clearance for each valve should be checked and adjusted in accordance with the
+Periodic Maintenance Chart� Inspection and adjustment should be performed by a CFMOTO dealer�
+107MAINTENANCE
+Air Filter
+A clogged air filter restricts air flow, increases fuel consumption,
+reduces engine power, and causes spark plug fouling� The
+air filter element must be cleaned in accordance with the
+periodic Maintenance Chart� When driving in dusty, rainy, or
+muddy conditions, the air filter element should be serviced
+1
+more frequently than the recommended interval in the periodic
+Maintenance Chart. Due to the vehicle’s design, air filter service
+should be only performed by an authorized dealer�
+Indicator hose 1 alerts to excessive dirt, residual oil or water in
+the air filter.
+CAUTION
+Oil on tires and plastic or other parts will cause damage�
+If engine intakes with the unfiltered air, will have a negative effect on the service life of the engine.
+Never start to use the vehicle without an air filter.
+108MAINTENANCE
+Cooling System
+Radiator and Cooling Fan
+Check the radiator fins for bending, out of shape, obstruction by insects or mud, and clean off any
+obstructions with a stream of low pressure water�
+WARNING
+Keep your hands and clothing away from the fan blades when it is working to avoid any injury�
+Using high-pressure water to wash the vehicle could damage the radiator fins and impair the radiator's
+effectiveness. Installing unauthorized accessories in front of the radiator or behind the cooling fan may
+cause interference with the radiator airflow, and can lead to overheating and consequent engine damage.
+If the radiator fins are damaged by more than 20% of their surface area by obstructions, and it is unable
+to be cleared, then replace with new radiator�
+Radiator Hoses
+Check the radiator hoses for leaks, cracks, deterioration, rust, corrosion and connections for leaks or
+looseness daily before riding the motorcycle� Check in accordance with the Periodic Maintenance Chart�
+109MAINTENANCE
+Coolant
+Coolant absorbs excessive heat from the engine and transfers it to the air by the radiator� If the coolant
+level is low, the engine will overheat and may suffer severe damage. Check the coolant level daily before
+riding the motorcycle and perform maintenance in accordance with the periodic maintenance chart�
+Replenish coolant if the level is low�
+To protect the cooling system (engine and radiator contain aluminum parts) from rust and corrosion,
+the use of corrosion and rust inhibitor chemicals in the coolant is essential� Purchase only commercially
+available coolant that contains corrosion and rust inhibitor chemicals, so there is no need to add
+separately�
+110MAINTENANCE
+DANGER
+Coolant is toxic and harmful for health�
+Do not allow the coolant to touch skin, eyes or clothing�
+If coolant is swallowed, see a doctor immediately�
+If coolant contacts the skin, flush the contact position with plenty of water immediately.
+If coolant contacts the eyes, flush the eyes with plenty of water and see a doctor immediately.
+If coolant splashes on clothes, change the clothes�
+Any corrosion or rust flushed from the engine and radiator should be disposed of following special
+instructions� The chemicals inside are harmful to the human body�
+CAUTION
+Do not add tap water to the coolant system� It will cause deposit accumulation inside the cooling system�
+Use only distilled water and coolant 50% \ 50% mix� When temperatures are below 0°C, improper water/
+coolant mix can cause freezing, severe interference, and failure of the coolant system�
+Available bottled antifreeze on the market contains anti-corrosion and anti-rust properties� When it is
+diluted excessively, it loses its anti-corrosion and anti-rust performance� Keep the diluted concentration of
+antifreeze the same as the instructions from the manufacturer�
+When filling the cooling system, ensure the coolant color is green and contains ethylene glycol. When the
+environment temperature is below 32˚F (0˚C), please ensure the coolant has a freezing point below 32˚F
+(0˚C).
+111MAINTENANCE
+Coolant Level Inspection
+Support the vehicle vertically on a level surface�
+Inspect the coolant level in the reservoir�
+If the level is within area ‘B,’ the coolant is at the proper level.
+If the level is within area ‘A,’ drain out the excess coolant until the A
+level is within area ‘B’.
+B
+If the level is within area ‘C’ or you cannot see the level, add the
+same coolant until the level is within area ‘B’.
+C
+WARNING
+When the vehicle is running, the coolant will have a very high temperature and stay in a state of
+compression�
+Before the engine or cooling system has cooled down, do not open the radiator, radiator hose, reservoir
+or other cooling system related parts�
+In the event of scalding, wash the affected area immediately with running water for more than 10 minutes
+and seek medical attention�
+112MAINTENANCE
+Coolant Filling
+Open the reservoir cover and add coolant to area B�
+CAUTION
+If coolant needs to be added frequently, or the reservoir tank is completely dry, there is probably a leak in
+the system� Have the cooling system inspected by an authorized dealer�
+Contact your dealer for replacing coolant. Mixing different coolant may lead to engine damage.
+113MAINTENANCE
+Tire and Chain
+This vehicle only uses tubeless tires, rims and inflating valves. Only use the recommended standard tires,
+rims and inflating valves. Do not install inner tube tires on tubeless rims. Do not install a inner tube inside a
+tubeless tire� If tires are not installed properly, it may cause tire air leakage�
+Tire Specification
+Front wheel 120/70ZR17 M/C 58W
+Tire specification
+Rear wheel 160/60ZR17 M/C 69W
+Front wheel 32�6 psi (225 kPa)
+Tire pressure
+Rear wheel 36�3 psi (250 kPa)
+Front wheel 0�031 in ~ 0�039 in (0�8 mm ~ 1 mm)
+Minimum tread depth
+Rear wheel 0�031 in ~ 0�039 in (0�8 mm ~ 1 mm)
+Improper tire pressure or exceeding the tire load limit may affect the vehicle handling and performance,
+causing a loss of control�
+Make periodic inspections of the tire air pressure using a tire pressure gauge� Adjust tire pressure
+accordingly�
+Excessive low tire pressure may cause tire improper wear or overheating�
+Proper tire pressure offers the best comfort level and the longest service life.
+114MAINTENANCE
+NOTE:
+Inspect the tire pressure when the tires are cold�
+Tire pressure is affected by the change of environment temperature and altitude� If the environment
+temperature and altitude have a big change during the driving trip, tire pressure should be adjusted and
+inspected accordingly�
+Most countries have their own regulation for minimum tread depth� Please follow local regulations� When
+installing new rims or tires, always inspect for wheel balance�
+CAUTION
+In order to keep the handling safety and stability, please only use the tire and pressure recommended�
+If the tire is punctured and repaired or used within 24 hours after repairing, the vehicle speed should not
+exceed 60km/h, and cannot exceed 90 km/h at any other time� A punctured tire should be repaired as
+soon as possible�
+The front and rear tires should come from the same manufacturer, with the same tread pattern�
+New tires can be slippery and may cause a loss of control and injury if proper break-in is not performed�
+Please drive the vehicle at moderate speeds using different tilt angles to have the tires create friction with
+the ground over the entire surface area� Normal friction surface will be formed after a 160km break-in
+period� Avoid sudden braking, heavy acceleration, and high speed sharp turns during the break-in period�
+Tire Payload
+The maximum recommended payload is: 330�7 lb (150 kg), including driver, luggage / cargo and
+accessories�
+115MAINTENANCE
+Tire Friction
+When tire tread wear exceeds the use limit, the tire becomes more susceptible to punctures and failure�
+An accepted estimate is that 90% of all tire failures occur during the last 10% of tread life, so it is unsafe to
+continue to use tires until they are bald� In accordance with the Periodic Maintenance Chart, measure the
+depth of the tread with a depth gauge, and replace any tire that has worn down to the minimum allowable
+tread depth�
+Visually inspect the tire tread for cracks and cuts, and replace with a new tire if severely damaged� For
+example, if partial expansion appears on the tire, it means the tire is severely damaged�
+Remove any embedded stones or other foreign particles form the tread�
+CAUTION
+When the environment temperature is below 14°F (-10°C), it is recommended to place the vehicle indoors
+if required to store for a long time�
+Do not use side stand to park vehicle for long time in winter� Use the middle stand (if equipped) or park
+stand bracket to park the vehicle, as the tires should not bear the vehicle weight�
+Do not allow the tires to sink into snow or ice when parking the vehicle in winter�
+When parking vehicle for long time outside in winter, use a ground covering under tires that will insulate
+and protect them�
+116MAINTENANCE
+Drive Chain Inspection
+The drive chain slack and lubrication must be checked daily before riding in accordance with the Periodic
+Maintenance Chart for safety and preventing excessive wear� If the chain becomes badly worn or
+maladjusted, it will lead excessive component wear and possible failure�
+If the chain is too tight, will accelerate the wear for chain, sprocket, rear sprocket and rear rim� Some parts
+may crack or break when placed under a load�
+If the chain is too loose, The chain may fall off from sprocket or rear sprocket, which may cause locking of
+rear wheel or engine damage�
+The service life of the drive chain largely depends on the maintenance�
+Chain dirt inspection
+Inspect periodically or inspect the chain for dirt ingress, or after driving in severe conditions�
+If the chain is dirty, flush any large dirt particles with a soft jet of water. Clean any residual dirt and residual
+lubricant with a proper chain cleaner�
+Spray the chain with a proper chain lubricant after the chain is dry�
+WARNING
+When spraying chain lubricant, do not splash the lubricant onto other parts� Lubricant on the tires will
+decrease the tire grip, and lubricant on the brake discs will decrease the brake performance� Clean these
+components with a proper cleaner if over-spray occurs�
+117MAINTENANCE
+Chain tension inspection
+Place the transmission into Neutral gear�
+Park with the side stand on level ground�
+Push up the middle of the chain until it stops, and measure the
+distance of chain movement�
+If the chain tension is out of specification, adjust it to the
+standard�
+Standard value: 1.18 in. ~ 1.57 in. (30 mm ~ 40 mm) 1�18 in� ~ 1�57 in�
+NOTE:
+Rotate the rear wheel to different positions and repeat the
+measurement before adjusting chain slack�
+Chain Tension Adjustment
+3
+Loosen the rear wheel shaft nut 1 .
+Loosen the left and right locking nuts 3 �
+Screw the left and right adjusting bolts 2 evenly to adjust chain
+tension, ensuring the alignment marks on the left and right chain
+tensioner 4 are the same with the reference mark position�
+Make sure the swing arm end is touching tightly to the adjusting 2
+1
+bolt�
+Tighten the left and right locking nuts 3 �
+Tighten the rear wheel shaft nut�
+118MAINTENANCE
+Wear inspection
+Place the transmission into Neutral gear�
+Support the vehicle with side stand� 12�6 in�
+Apply chain tensioning or hanging a 22 lb� (10 kg) object on the
+chain�
+Measure the length between 20 links for elongation� If the
+measured length exceeds the standard limit, replace the chain
+with a new one�
+Standard limit: 12�6 in. (320.7 mm)
+DANGER
+For your safety, please use the standard chain� When chain
+is elongated, never cut the chain and mount back onto the
+vehicle� Have it replaced by an authorized CFMOTO dealer�
+Inspect the rear sprocket and engine sprocket teeth for any kind
+of wear� Standard Teeth
+If the engine sprocket or rear sprocket is worn, then replace the
+both sprockets as a set�
+Wear Teeth
+Damaged Teeth
+119MAINTENANCE
+Brake System
+In order to guarantee excellent performance of your vehicle and personal safety, please repair and
+maintain the vehicle according to the Periodic Maintenance Chart� Make sure all the parts of the brake
+system are in good state� If any damage occurs to the brake system, have your vehicle inspected by
+authorized dealer�
+Front Brake Lever Inspection
+Park with the side stand on level ground�
+0�12 in� ~ 0�23 in�
+Grip lightly the front brake lever and inspect its free travel�
+Free travel: 0.12 in. ~ 0.23 in. (3 mm~6 mm)
+Inspect the front brake lever for any cracks or abnormal noise�
+Replace with new parts if problems are discovered�
+Rear Brake Pedal Inspection
+Park with the side stand on level ground�
+Lightly apply the rear brake pedal and inspect its free travel�
+Free travel: 0.39 in. (10 mm) 0�39 in�
+Inspect the rear brake pedal for any cracks or abnormal noise�
+Replace with new parts if problems are discovered�
+WARNING
+If the brakes feel soft when applying the brake lever or brake pedal, there may be air in a brake fluid
+hose or lack of fluid. If the vehicle has this dangerous condition, do not drive the vehicle. Have the brake
+system checked immediately by an authorized CFMOTO dealer�
+120MAINTENANCE
+Brake Fluid Level Inspection
+Support the vehicle vertically on a level surface�
+Confirm the front and rear brake fluid reservoirs are level. Then check their fluid levels.
+If the brake fluid level is within area ‘B,’ the fluid is at the proper level.
+If the brake fluid level is within area ‘A,’ drain out the excess fluid until the level is within area ‘B.’
+If the brake fluid level is within area ‘C’ or you cannot see the level, add the same brake fluid until the level
+is within area ‘B.’
+WARNING
+If the brake fluid level drops to area ‘C’ frequently, the brake system is leaking, not sealed, or is damaged.
+Have the brake system checked immediately by an authorized CFMOTO dealer�
+A
+A
+B
+B
+C C
+Front brake fluid reservoir Rear brake fluid reservoir
+121MAINTENANCE
+Adding Brake Fluid
+WARNING
+Brake fluid causes skin irritation. Rinse the affected area with plenty of water in the event of contact with
+the skin�
+Keep brake fluid out of the reach of children.
+Keep brake fluid away from skin, eyes or clothing. Wear protective clothing and goggles when required.
+Consult a doctor immediately if brake fluid has been swallowed.
+Rinse eyes thoroughly with water immediately and consult a doctor if brake fluid comes into contact with
+the eyes�
+If brake fluid spills onto your clothing, change the clothing.
+WARNING
+Brake fluid used for long time without replacement will reduce braking efficiency. Please change the brake
+fluid according to the Periodical Maintenance Schedule. Only use the same type DOT4 brake fluid as
+marked on the fluid reservoir. The mixing of different brake fluid types may cause brake system damage
+or failure. Please contact your authorized CFMOTO dealer for brake fluid maintenance.
+NOTE
+When the brake fluid level goes down, it causes negative pressure inside the fluid reservoir, which may
+lead to reservoir gasket sag� Remove the reservoir cap to release the pressure� Adjust the reservoir
+gasket and then install the gasket and cap�
+122MAINTENANCE
+Front brake fluid reservoir
+Remove screws 1 �
+1
+Remove the cover and reservoir gasket 2 �
+Refill brake fluid to area ‘B’.
+Reinstall the cover and reservoir gasket�
+2
+Install the screws�
+B
+Rear brake fluid reservoir
+Remove screws 1 � 1
+Remove the cover and reservoir gasket 2 �
+2
+Refill brake fluid to area B;
+Reinstall the cover and reservoir gasket�
+Install the screws�
+123MAINTENANCE
+Brake Disc Inspection
+Inspect brake discs periodically for any damage, out of shape,
+cracks or wear� Damaged brake discs may cause braking
+failure� Worn-out brake discs reduce the braking distance� If
+brake discs are damaged or exceed the wear limit, contact an
+authorized dealer to replace with new brake discs immediately�
+Inspect the thickness in several positions for front and rear
+brake discs�
+Brake discs wear limit: 0.12 in. (3 mm)
+Brake Caliper Inspection
+Inspect the brake calipers before riding� Inspect the brake pads
+for minimum thickness periodically� If the brake pad is too thin,
+it will cause the steel plate to rub the brake discs, which will
+severely reduce brake effect and damage the brake system.
+Inspect the minimum thickness of brake pads on all brake
+calipers�
+Brake lining plate minimum thickness: ≥0.04 in. (1 mm)
+If the brake pad thickness is less than the minimum limit, or
+the brake pad plate is damaged, please contact an authorized
+dealer immediately to repair the brake system�
+124MAINTENANCE
+Anti-lock Braking System (ABS)
+ABS is a safety system that prevents locking of the wheels when driving straight ahead without the
+influence of lateral forces.
+With assistant of ABS, when fully brake or brake in gritty, ponding, sliding or other low adhesive force road
+conditions, all could handle with full brake force and will not lock the wheel which could be dangerous�
+DANGER
+It is not always possible to prevent vehicle rollover in extreme riding situations, e�g� luggage loaded with
+a high center of gravity, varying road surfaced, steep descents, full braking without clutch lever released�
+Adapt your riding style to the road conditions and your driving ability�
+ABS operates with two independent brake circuits (front and rear brakes)� When the brake electronics
+control unit detects a locking tendency in a wheel, ABS begins regulating the brake pressure� We can feel
+the regulating process according to the slight pulsing of the hand or foot brake levers�
+Turn on the ignition switch, ABS indicator should light up and go out after starting off. If ABS indicator will
+not go out after starting off, or if it lights up during driving, this indicates that there is a fault in the ABS
+system� In this case, ABS will not work, the wheels may lock during braking� The brake system still stays
+functional, only ABS is not available�
+125MAINTENANCE
+Shock Absorber
+Shock Absorber Inspection
+Holding the handle bar and front brake, compress the front fork for several times to inspect for smooth
+function� Visually inspect the front shock absorbers for oil leaks, scratches or friction noise�
+After riding, check the front shocks for any mud, dirt or debris� Clean these surfaces periodically� Failure to
+maintain them could lead to oil seal damage and shock oil leak�
+Press down on the seat with your weight several times to check if the rear shock absorber works smoothly�
+Visually inspect the rear shock absorber for an oil leak�
+If you have any doubt about the front or rear shock absorber performance, please contact an authorized
+CFMOTO dealer for immediate inspection�
+126MAINTENANCE
+Shock Absorber Inspection
+Holding the handle bar, compress the front fork for several times to inspect if it works smoothly�
+Visually inspect front shock absorber for oil leak, scratches or friction noise�
+After riding, check the front shock absorber if any mud on it, clean it or could lead to oil seal damage and
+absorber oil leak�
+Press the seat several times to check if the rear shock absorber works smoothly;
+Visually inspect the rear shock absorber for oil leak;
+If you have any doubt about the rear shock absorber, please contact the authorized CFMOTO dealer�
+127MAINTENANCE
+Rear shock absorber adjustment
+The shock absorber has been adjusted to the best position at
+the factory, which is suitable for most situations�
+Rebound damping adjustment
+Rebound damping affects the response speed of shock
+absorber� The higher the rebound damping setting 1 , the
+1
+slower the rebound speed of the suspension� The lower the
+rebound damping setting, the faster the rebound speed of the
+suspension�
+Factory setting: 4 clicks Total: 7±1 clicks
+Rotate the adjuster counter-clockwise by straight screwdriver
+and record the number to decrease rebound damping� Rotate
+clockwise by straight screwdriver and record the number to
+increase rebound damping�
+Counter-rotate according to recorded numbers to restore factory
+setting, or rotate counter-clockwise to the end, then rotate it
+clockwise to the 4th click�
+Contact a CFMOTO dealer before attempting any suspension
+adjustment�
+DANGER
+This component contains high-pressure nitrogen� Improper operation may cause an explosion� Read the
+relevant instructions. Do not expose it to fire, make holes, or open it.
+128MAINTENANCE
+Front shock absorber adjustment
+The shock absorber has been adjusted to the best position at
+the factory, which is suitable for most situations�
+Rebound damping adjustment 2
+Rebound damping affects the response speed of shock
+absorber� The higher the rebound damping setting 2 , the
+slower the rebound speed of the suspension� The lower the
+rebound damping setting, the faster the rebound speed of the
+suspension�
+Factory setting: 6 clicks Total: 12 ± 2 clicks
+Rotate the adjuster clockwise and record the number to
+decrease rebound damping� Rotate the counter-clockwise and
+record the number to increase rebound damping�
+Counter-rotate according to recorded numbers to restore factory
+setting, or rotate clockwise to the end, then rotate it counter-
+clockwise to the 10th click�
+Contact a CFMOTO dealer before attempting any suspension
+adjustment�
+129MAINTENANCE
+Electrical System and Light Signal
+Battery
+The battery in this vehicle is a maintenance-free battery� Therefore, it is unnecessary to inspect the
+amount of battery electrolyte or add distilled water� To ensure optimum service life of the battery, keep the
+battery charged properly to ensure the battery has reserve capacity available at the starter motor� When
+the motorcycle is used frequently, battery is charged by the motorcycle charging system� If the motorcycle
+is only used occasionally, or used for a short time during each ride, the battery can remain discharged�
+Batteries can also self-discharge from infrequent use� The rate of discharge varies with battery type and
+ambient temperature� When environment temperature rises for example, the rate of discharge could
+increase by a factor of 1 for every 15°C temperature rise�
+In cold weather, if battery is not charged properly it can easily cause freeze the electrolyte, which may lead
+to battery cracking and warp electrode plates out of shape� Proper, full charging of the battery improves
+freeze-proof capability�
+NOTE: Due to motorcycle design and component placement, battery removal and installation should only
+be performed by CFMOTO technicians in a properly equipped workshop�
+130MAINTENANCE
+Battery Maintenance
+Always keep the battery fully charged, or may it damage the battery and result in a shorter life�
+If the vehicle is driven infrequently, inspect the battery voltage weekly with a voltmeter� If it drops below
+12�8 volts, the battery should be charged with an appropriate charger (check with your dealer)� If you
+will not use the vehicle for longer than 2 weeks, the battery should be tended with an appropriate trickle
+charger� Do not use an automotive type quick-charger that may overheat the battery and damage it�
+Battery Recharger
+Contact your dealer for battery charger specifications.
+Battery Charging
+Remove the battery from the vehicle before charging�
+Connect the positive and negative wires from the charger and charge the battery at a rate 1/10th Amp of
+the battery capacity� For example, the charging rate for a 10Amp-hour battery would be 1�0 ampere�
+Ensure that the battery is fully charged before installation�
+WARNING
+Do not install a conventional wet-cell battery in this motorcycle� The electrical system will not work
+properly and damage will result�
+When removing the battery, remove the negative terminal first, then the positive terminal. When installing,
+the connecting order is opposite of battery removal�
+NOTE:
+When charging a maintenance-free battery, always follow the instructions shown on the label�
+131MAINTENANCE
+Battery Disassembly
+Put the vehicle on the level ground and park�
+Turn off the engine and the vehicle power.
+Insert the key into the seat lock�
+Remove the seat 1 �
+Remove the black negative wire(-)�
+Remove the red positive wire(+)�
+Remove the battery belt 2 � 1
+Take out the battery�
+2
+132MAINTENANCE
+Battery maintenance
+Apply a mixture of baking soda and water with a soft brush to clean the battery top and terminals�
+Clean away dirt and any corrosion on positive and negative wire terminals with a stiff brush.
+A special battery charger ( constant low voltage / ampere ) is required for recharging low-maintenance
+batteries� Using a conventional battery charger may shorten the battery life�
+If the vehicle will not be used for a month or longer, take out the battery and store it in a cool, dry place�
+Completely recharge the battery before re-installation� When charging the battery, it should be taken out
+from the vehicle�
+Battery Charging
+Remove battery�
+Connect the charger with the positive and negative end of battery�
+Switch on the charger�
+NOTE: It is recommended to charge the battery with current 10% of the battery amp-hour capacity.
+Disconnect the charger after finishing charging.
+Separate the charger and battery�
+NOTE: If the vehicle will not be used for a long time, the battery should be recharged every month.
+133MAINTENANCE
+Battery Assembly
+Put the vehicle on the level ground and park�
+Make sure the key is on “OFF” position.
+Mount the battery in place�
+Mount the red positive wire (+)�
+Mount the black negative wire (-)�
+Mount the seat�
+WARNING
+Avoid contact with skin, eyes or clothing, and always shield eyes when working near batteries�
+Keep out of reach of children. Keep batteries away from sparks, flames, cigarettes or other sources of
+ignition� Ventilate the area when charging or using in a closed space�
+Battery acid antidote:
+EXTERNAL: Flush with water�
+INTERNAL: Get prompt medical attention�
+EYES: Flush with water for 15 minutes and get prompt medical attention�
+NOTE: Wrong operating sequence for positive and negative wires installation or disassembly may
+lead to short circuit between battery and the vehicle.
+134MAINTENANCE
+Light
+High beam and low beam light is adjustable� Rotate the light adjusting knob 1 to adjust light�
+CAUTION
+Adjustment of high / low beams should be accordance with local regulations� The light ray standard is
+based on that front and rear wheels touch down the ground and driver sits on the vehicle�
+All the lights are LED structure, which cannot be repaired if damaged or failed� Have your dealer replace
+the entire assembly if an LED is damaged or has failed�
+CAUTION
+Do not leave the power turned on for a long time if engine will not be started� Headlight constantly on will
+use battery capacity and cause the engine to fail to start�
+1
+135MAINTENANCE
+Fuse
+Fuse box 1 is located under the seat, it is visible after removing the seat and the dust cover� If a fuse is
+blown, inspect the electrical system for damage and replace with the same new fuse�
+WARNING
+Do not use any substitute for the standard fuse� Replace a blown fuse with a new one of the same
+ampere� Ampere value is shown on fuse�
+1
+136MAINTENANCE
+Catalytic Converter
+This motorcycle is equipped with a catalytic converter in the exhaust system� Platinum and rhodium
+contained inside the converter reacts with the engine exhaust of carbon monoxide and hydrocarbons
+to convert them into carbon dioxide and water, resulting in cleaner exhaust gases discharged into the
+atmosphere�
+For proper operation of the catalytic converter, the following cautions must be followed:
+Only use unleaded gasoline. Never use leaded gasoline. Leaded gasoline significantly reduces the service
+life of the catalytic converter�
+Do not coast the vehicle with the engine and transmission engaged, and the ignition switch and/or engine
+stop switch off� Do not attempt to start the engine many times when the battery is discharged� Under
+these conditions, unburned air/fuel mixture can flow into exhaust system, accelerating the reaction with
+the converter which leads the converter to become overheated and damaged when the engine is hot, or
+reduce converter performance when the engine is cold�
+CAUTION
+Only use unleaded gasoline� Even only a little lead can damage the precious metals inside the catalytic
+converter, causing catalytic converter failure. Do not add anti-rust oil or engine oil into the muffler, which
+may result in catalytic converter failure�
+137MAINTENANCE
+Fuel Evaporation System
+This vehicle is equipped with an EVAP System� Fuel vapors from the fuel tank are drawn into a carbon
+tank through an absorption tube� The fuel vapors are absorbed by canister that contains active carbon
+when the engine is stopped. When the engine is running, fuel vapors absorbed in the carbon canister flow
+into the air intake and burn as a normal part of combustion, avoiding environmental pollution instead of
+being released into the air directly� Meanwhile, air pressure inside the fuel tank is balanced by the EVAP
+system� If inner pressure of fuel tank is lower than outside, it is available to replenish air pressure through
+the air tube of the carbon canister and absorption tube� The EVAP tube system should always remain clear
+without blocking or squeezing, otherwise the fuel pump could be damaged, and the fuel tank can also
+become deformed or broken�
+Please contact CFMOTO dealer if a fuel evaporation system component has failed� Do not modify the
+fuel evaporation system, or the system will not meet requirements for environmental regulations� Tube
+connections should be well connected after any repair without air leakage, blocking, squeezing, being
+broken or damaged etc�
+138CLEANING & STORAGE
+Motorcycle cleaning and storage
+General Precautions
+Keeping your motorcycle clean and in best performance will extend the vehicle service life� Covering your
+motorcycle with a high quality, breathable motorcycle cover will help to protect the vehicle during storage�
+• Always clean the motorcycle after the engine and exhaust system have cooled�
+• Avoid applying harsh detergents to seals, brake pads, and tires�
+• Wash the vehicle by hand� Do not use high-pressure spray�
+• Avoid all harsh chemicals, solvents, detergents, and household cleaning products like ammonium
+hydroxide�
+• Gasoline, brake fluid, and coolant will damage painted plastic surfaces� Wash them off immediately
+if splashed on any painted plastics�
+• Avoid metal brushes, steel wool, and all other abrasive pads or brushes to clean the vehicle�
+• Use caution when washing the windshield, headlight cover, and other plastic parts as they can be
+easily scratched�
+• Avoid high water pressure, as it may penetrate seals and electrical components, resulting in vehicle
+damage�
+• Avoid spraying water into areas such as air intakes, fuel system, electrical components, muffler
+outlets and fuel tank lock�
+139CLEANING & STORAGE
+Washing Vehicle
+• Rinse with cold water to remove any loose dirt�
+• Mix a mild detergent specific for motorcycles or automobiles with water in bucket. Use a soft cloth
+or sponge to wash your motorcycle� If necessary, use a mild degreaser to remove any oil or grease
+build-up� Start at the top of the motorcycle and wash bottom parts last�
+• After washing, rinse your motorcycle with clean water to remove any residue (residue from the
+detergent can damage the components of your motorcycle)�
+• Dry off your motorcycle with a soft cloth to avoid scratches.
+• Start the engine and allow it idle for several minutes. The heat from the engine will help dry off the
+vehicle in moist areas�
+• Carefully ride the motorcycle at a low speed and apply the brake several times� This will help to dry
+the brakes and restores their normal operating performance�
+• Lubricate the drive chain to prevent rusting�
+NOTE:
+When riding in areas where the roads are salted or near the ocean, clean the motorcycle after your ride
+with cold water immediately� Do not use warm water to wash your vehicle as it accelerates the chemical
+reaction of the salt� After drying the vehicle, applying an anti-corrosion spray to all metal or chrome
+surfaces will help prevent corrosion� In the case of riding during a rainy day or just washing the motorcycle,
+condensation may form on the inside of the headlight lens� If this happens, start the engine and turn on the
+headlight to remove the moisture�
+140CLEANING & STORAGE
+Protect the Surface
+After washing your motorcycle, coat the painted surfaces, both metal and plastic, with a commercially
+available motorcycle/automobile wax� Wax should be applied every three months or as conditions require�
+Always use non-abrasive products and apply them according to the instructions�
+Windshield and Other Plastic
+After washing, use a soft cloth to gently dry off plastic parts. When the vehicle is dry, treat the windshield,
+headlight lens, and other unpainted plastic parts with an approved plastic cleaner or polish�
+CAUTION
+Plastic parts may deteriorate and break if they come in contact with chemical substances or household
+cleaning products such as gasoline, brake fluid, window cleaners, thread fastener glue, or other harsh
+chemicals. If a plastic part comes in contact with any harsh chemical substance, wash it off with water,
+and then inspect for damage� Avoid using abrasive pads or brushes to clean plastic parts, as they will
+damage the plastic surface�
+Chrome and Aluminum
+Chromium alloy and uncoated aluminum parts exposed to the air can oxidize, become dull and lackluster�
+These parts should be cleaned with a detergent and polished with a spray polish� Painted and unpainted
+aluminum wheels should be cleaned with special detergent�
+Leather, Vinyl, and Rubber Products
+If your motorcycle has leather accessories, use a special leather cleaner/treatment to clean� Washing
+leather parts with detergent and water will damage them, shortening their life� Vinyl parts should be
+141CLEANING & STORAGE
+cleaned separately� Tires and other rubber components should be treated with a rubber protective agent to
+preserve their life�
+DANGER
+Special care must be taken when treating tires, that rubber protective agent applied will not affect the tire
+tread function� If not applied correctly, it may decrease the traction between the tire and ground, possibly
+causing a loss of control�
+142CLEANING & STORAGE
+Preparation for Storage
+Clean the entire vehicle thoroughly�
+Run the engine for about 5 minutes, stop the engine, then change the engine oil and filter.
+DANGER
+Motorcycle oil is a toxic substance� Dispose of used oil properly� Keep the used oil out of reach of
+children. If skin contacts the oil it should be washed off immediately.
+Fill with fresh engine oil�
+Fill with fuel and appropriate fuel additive�
+DANGER
+Gasoline is extremely flammable and explosive under certain conditions� Turn the ignition key to “ ”
+position when operation the vehicle� Do not smoke� Make sure the area is well ventilated and free of any
+source of flame or sparks. This includes any appliance with a pilot light. Gasoline is a toxic substance.
+Dispose of gasoline properly� Keep the used oil out of reach of children� If skin contacts the oil should be
+treated immediately�
+Reduce tire pressure by 20% during storage period�
+Raise wheels off the ground using wood boards or other material to keep dampness away from the
+vehicle�
+Spray a corrosion inhibitor on all unpainted metal surfaces to prevent rusting� Avoid spraying on rubber
+parts or on the brakes�
+Lubricate the drive chain and all cables�
+Remove the battery� Store it out of the sun and in a cool, dry place� Ensure that the battery is fully charged
+143CLEANING & STORAGE
+according to periodic maintenance chart�
+Tie plastic bags over the muffler exhaust pipe to prevent moisture from entering.
+Put a cover over the motorcycle to keep dust and dirt from collecting on it�
+Preparation After Storage
+Remove the plastic bags from the Muffler.
+Verify the battery condition� Charge it if necessary, then install the battery in the motorcycle�
+Lubricate any pivot points as necessary (handle bar levers, foot pedal, etc)�
+Check all the points listed in Pre-Ride Inspection section�
+Test ride at slow speed to verify the vehicle functions normally�
+Transporting Your Vehicle
+If your vehicle needs to be transported, it should be carried on a motorcycle trailer, a flatbed truck, or trailer
+that has a loading ramp or lifting platform, and be secured with motorcycle tie-down straps� Never try to
+tow your vehicle with a wheel or wheels on the ground�
+144CLEANING & STORAGE
+General troubles and causes
+Problem Components Possible cause Solution
+No fuel in fuel tank Refuel
+Fuel System
+Pump blockage or damage: poor fuel quality Clean or replace
+Spark plug failure: excessive carbon deposits, too long Clean or replace
+time usage
+Spark plug cap failure: Poor contact or burning Clean or replace
+Ignition coil failure: poor contact or burning Clean or replace
+Ignition System
+ECU failure: Poor contact or burning Clean or replace
+Trigger coil failure: poor contact or burning Clean or replace
+Engine fails to
+Stator failure: poor contact or burning Clean or replace
+start
+Wiring failure: poor contact Inspect or adjust
+Starting mechanism failure: worn or damaged Clean or replace
+Intake and exhaust valves, valve seats faulty: too Clean or replace
+much fuel colloidal or too long time use
+Cylinder
+Cylinder, piston, piston ring failure: too much fuel Clean or replace
+compression
+colloidal or wear
+Intake manifold leakage: too long time use Clean or replace
+Valve timing faulty Clean or replace
+145CLEANING & STORAGE
+Intake and exhaust valves, piston excessive carbon Repair or
+Valve and piston
+deposits: poor fuel quality and poor oil quality replace
+Clutch Clutch slips: poor oil, too long time use and overloadedAdjust or replace
+Cylinder and Cylinder, piston rings wear: poor oil quality and too Replace oil
+Insufficient
+ring long time use�
+power
+Brake Incomplete separation of brake: the brake is too tight Adjust
+Main chain The drive chain is too tight: improper adjustment Adjust
+Engine overheats: too rich or too lean mixture, poor Adjust or replace
+Engine
+oil, fuel quality, shelter, etc
+Improper spark plug gap, normal specification is Adjust or replace
+Spark plug
+0�8mm -0�9mm
+Insufficient Intake pipe Air leakage of intake pipe: too long time use Adjust or replace
+power Cylinder head Air leakage for cylinder head or valves Adjust or replace
+Electric system Electrical system failure Inspect or repair
+Air filter Clogged air filter Replace
+Cable Poor connections Adjust
+Left and right Switch poor contact or damage Adjust or replace
+switches
+Headlights and
+Headlight Bulb and lamp holder failure or damage Adjust or replace
+tail lights do not
+Inspection� Loose connection or burnt Inspect or
+work Regulator
+replace
+Inspect the coil: poor connection or burnt Inspect or
+Magneto
+replace
+146CLEANING & STORAGE
+No electricity Recharge or
+Battery
+replace
+Horn not work Left switch Horn button fault or damage Adjust or replace
+Cable Poor connection Adjust or repair
+Horn Horn damage Adjust or replace
+The items listed are the common faults of a motorcycle� If your motorcycle has failed (especially the
+electronic fuel injection system, fuel evaporation system, or alarms system), please contact a CFMOTO
+authorized dealer to check and repair the vehicle�
+Danger
+Do not try to fix faults without professional help, otherwise it could cause an accident� You become
+responsible for accidents related to any repairs or maintenance not performed by a CFMOTO dealer�
+Reporting Safety Defects
+If you believe that your vehicle has a defect which could cause a crash, injury or death, you should
+immediately inform the National Highway Traffic Safey Administration (NHTSA) in addition to notifying
+CFMOTO-USA. If NHTSA receives similar complaints, it may open an investigation, and if it finds that a
+safety defect exists in a group of vehicles, it may order a recall and remedy campaign� Please note that
+NHTSA will not become involved in individual problems between you, your dealer, or CFMOTO-USA� To
+contact NHTSA, you may call the Vehicle Safety Hotline toll-free at 1-888-327-4236 (TTY: 1-800-424-
+9153); go to http://www�safercar�gov; or write to: Administrator, NHTSA J200 New Jersey Avenue SE, West
+Building, Washington DC, 20590� You can also obtain other information about motor vehicle safety from
+http://www�safercar�gov
+147CFMOTO WARRANTIES FOR USA
+Warranty Information
+Change of Ownership
+If you sell your vehicle, any valid remainder of the warranty can be transferred to the new owner� Please
+record the details of the exchange below and inform an authorized CFMOTO dealer:
+Change of
+Original Purchaser 2nd Owner 3rd Owner 4th Owner
+Ownership
+Owner Name
+Address
+City
+State / Zip Code
+Telephone
+E-mail
+Date of Purchase
+Odometer Reading
+New Owner
+Signature
+NOTE:
+If a completed Change of Ownership form does not include the required details or is inaccurate, CFMOTO
+reserves the right to investigate the actual ownership of the product, the service history, and possibly
+refuse the application for warranty transfer if the requirements have not been fulfilled.
+148CFMOTO WARRANTIES FOR USA
+CFMOTO LIMITED WARRANTY
+Dear Customer:
+Thank you for purchasing a CFMOTO product� If any component on your vehicle is found to be defective
+in materials or workmanship within the terms and conditions of this CFMOTO Motorcycle Limited Warranty,
+the defective component will be repaired or replaced (at the option of CFMOTO) without charge for parts
+and/or labor at any authorized dealer located within the country of purchase� This warranty covers parts
+and labor charges for repair or replacement of defective parts and begins on the date of purchase by the
+original retail purchaser� This warranty is transferable to another owner during the warranty period through
+an authorized CFMOTO dealer, but any such transfer will not extend the original term of the warranty� The
+CFMOTO Limited Warranty is subject to the following terms and conditions:
+WARRANTY TERMS & CONDITIONS
+This CFMOTO Limited Warranty is subject to the following terms and conditions:
+1� WARRANTY DURATION: The duration of the warranty period is two (2) years from the date of the new
+vehicle purchase from an authorized CFMOTO Dealer�
+2� WARRANTY LIMITATIONS: This CFMOTO Limited Warranty excludes any failures that are not the
+result of a defect in material or workmanship� This warranty does not cover failures due to accidental
+damage, normal wear, abuse, or improper use� This warranty also excludes from coverage general wear
+items, parts exposed to friction surfaces, and parts exposed to environmental conditions or contaminants
+that they were not designed for� This Warranty provides no coverage for motorcycle transportation to and
+from the servicing dealer or loss of personal time�
+3� EXCLUSIONS FROM WARRANTY COVERAGE: This Warranty excludes damages or failures resulting
+149CFMOTO WARRANTIES FOR USA
+from the following acts or circumstances:
+• Fire
+• Collision
+• Theft
+• Unavoidable natural disasters
+• Improper storage or transportation
+• Failure or negligence in the performance of periodic vehicle maintenance
+• Improper or negligent use or operation
+• Unauthorized repair or adjustment
+• Unauthorized modifications or performance upgrades
+• Use of vehicle as a rental vehicle or any use that generates income
+• Use of vehicle in competitive or racing events
+• Use of aftermarket or non-standard components
+• Ingestion of foreign substances
+• Accessories or attachments
+• Non-recommended fuel, fluids, or lubricants
+150CFMOTO WARRANTIES FOR USA
+4� OWNER’S RESPONSIBILITIES: The vehicle’s owner must properly use, maintain, and care for the
+vehicle as outlined in the CFMOTO Owner’s Manual� Any warranty repairs must be performed exclusively
+by CFMOTO authorized Dealers� Any warranty work performed by anyone other than an authorized
+CFMOTO Dealer will not be covered under the CFMOTO Limited Warranty policy�
+5� TRANSFER OR CONTINUATION OF WARRANTY: This warranty is transferable by providing the
+following information to an authorized CFMOTO Dealer:
+a) The complete model and serial number as shown on the original warranty document must be provided�
+b) The name and address of the existing and new owners must be provided�
+c) The original delivery date of the vehicle must be provided�
+d) The new owner must indicate in writing that he/she has received and read the vehicle’s Owner’s
+Manual and the CFMOTO Warranty Policy�
+e) The dealer may be required by CFMOTO to provide an evaluation of the vehicle’s condition prior to
+approval�
+6� CUSTOMER ASSISTANCE: Any questions or concerns regarding your CFMOTO vehicle or related
+products should be directed to an authorized CFMOTO dealer� However, if a dealer is unable to address
+customer concerns or a product issue, CFMOTO Customer Care can be contacted directly at 763-398-
+2690 or 888-8CFMOTO and by e-mail: info@cfmotousa�com� Please note that CFMOTO Customer Care
+is not authorized to approve, modify, or deny warranty, provide technical repair data, diagnosis, instruction,
+or any other information beyond what is provided in the Owner’s Manual�
+151CFMOTO WARRANTIES FOR USA
+7� NOISE CONTROL SYSTEM AND TAMPERING: Federal law prohibits any of the following acts or
+causing thereof:
+a) The removal or rendering inoperative by any person other than for purposes of maintenance, repair, or
+replacement, of any device or element of design incorporated into any new vehicle for the purpose of
+noise control prior to its sale or delivery to the ultimate purchaser or while it is in use�
+b) The use of the vehicle after such device or element of design has been removed or rendered
+inoperative by any person�
+c) The use of aftermarket components or components that are not direct replacements of parts installed at
+the time of vehicle manufacture�
+d) Such components include but are not limited to; Mufflers, Exhaust pipes, Silencers, Air cleaner housing/
+case, air cleaner element, or intake duct�
+8� EMISSIONS CONTROL SYSTEM WARRANTY: CFMOTO also warrants to the ultimate purchaser and
+each subsequent purchaser of each CFMOTO motorcycle covered by this limited warranty that the vehicle
+is designed, built and equipped so as to conform at the time of sale with all United States federal emission
+standards applicable at the time of manufacture, and that the vehicle is free from defects in materials and
+workmanship which would cause it not to meet those standards� Where a warrantable condition exists,
+CFMOTO will repair your motorcycle at no cost to you, including diagnosis, parts and labor during the
+warranty period described in ‘Emissions Components - Warranty Period’�
+152CFMOTO WARRANTIES FOR USA
+Emissions Components - Warranty Period:
+CFMOTO warrants that each new 2021 and later CFMOTO motorcycle that includes as standard
+equipment a headlight, taillight, stoplight and is street-legal, is free from defects in material and
+workmanship which cause such motorcycle to fail to conform with applicable regulations of the United
+States Environmental Protection Agency for a period of use of five (5) Years or 30,000km (18,641 miles),
+whichever occurs first for 300cc or above motorcycles, and a period of use of five (5) Years or 12,000 km
+(7456 miles), whichever comes first for 125cc motorcycles.
+The emissions control system warranty covers the following:
+I� For exhaust emissions, emission-related components include any engine parts related to the following
+systems:
+• Air-induction system
+• Fuel system
+• Ignition system
+• Exhaust gas recirculation systems
+II� The following parts are also considered emission-related components for exhaust emissions:
+• Aftertreatment devices
+• Crankcase ventilation valves
+• Sensors
+• Electronic control units
+153CFMOTO WARRANTIES FOR USA
+III� The following parts are considered emission-related components for evaporative permeation emissions
+(If applicable):
+• Fuel Tank
+• Fuel Cap
+• Fuel Line
+• Fuel Line Fittings
+IV� Emission-related components also include any other part whose primary purpose is to reduce
+emissions or whose failure would commonly increase emissions without significantly degrading engine/
+equipment performance�
+9� DISCLAIMER: NO OTHER WARRANTY IS PROVIDED BY CFMOTO WITH RESPECT TO CFMOTO
+MOTORCYCLES EXCEPT AS SPECIFICALLY SET FORTH HEREIN� ANY IMPLIED WARRANTY,
+WARRANTY OF MERCHANTABILITY, WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE,
+AND ALL IMPLIED WARRANTIES ARISING FROM A COURSE OF DEALING, USAGE OF TRADE, BY
+STATUTE OR OTHERWISE, ARE HEREBY STRICTLY LIMITED TO THE TERMS OF THIS WRITTEN
+MOTORCYCLE LIMITED WARRANTY�
+154CFMOTO WARRANTIES FOR USA
+10� INTEGRATION: This limited warranty supersedes any and all oral, express, or written warranties,
+statements, or undertakings that may previously have been made, and contains the entire agreement
+of the parties with respect to the warranty of CFMOTO vehicles� Any and all warranties not contained in
+this Agreement are specifically excluded� This limited warranty shall be the sole and exclusive remedy
+available to the customer with respect to the covered CFMOTO vehicle� In the event of any alleged breach
+of any warranty or any legal action brought by the customer based on alleged negligence or other conduct
+by CFMOTO, or its related parties, the customer’s sole and exclusive remedy will be repair or replacement
+of defective components as stated above, unless otherwise provided by law� Some states do not allow
+limitations on how long an implied warranty lasts, so the above limitations may not apply if they are
+deemed inconsistent with the controlling state law�
+155CFMOTO WARRANTIES FOR USA
+CALIFORNIA EMISSION CONTROL WARRANTY STATEMENT
+YOUR WARRANTY RIGHTS AND OBLIGATIONS
+In California, new motor vehicles must be designated, built and equipped to meet California’s stringent
+anti-smog standards� CFMOTO Powersports, Inc� warrants the emission control systems on your
+motorcycle for the periods of time listed below provided there has been no abuse, neglect or improper
+maintenance of your motorcycle�
+Your emission control system may include parts such as the carburetor or fuel-injection system, the
+ignition system, catalytic converter, and engine computer� Also included may be hoses, belts, connectors,
+and other emission-related assemblies� Where a warrantable condition exists, CFMOTO Powersports, Inc�
+will repair your motorcycle at no cost to you including diagnosis, parts, and labor�
+MANUFACTURER’S WARRANTY COVERAGE:
+For MY2021 and subsequent model year motorcycles; either 12,000 or 30,000 km (Check model) for up to
+5 years whichever first occurs;
+1� If your motorcycle fails a Smog Check inspection, all necessary repairs and adjustments will be made
+by CFMOTO Powersports, Inc� to your emission control system under PERFORMANCE WARRANTY�
+2� If any emission-related part on your motorcycle is defective, the part will be repaired or replaced by
+CFMOTO Powersports, Inc� This is your short-term emission control system DEFECTS WARRANTY�
+-Terms of Warranty are for a period of use of five (5) Years or 30,000 km (18,641 miles), whichever
+occurs first for 300cc or above motorcycles, and a period of use of five (5) Years or 12,000 km (7456
+miles), whichever comes first for 125cc motorcycles.
+156CFMOTO WARRANTIES FOR USA
+In addition to the normal engine emission related components covered by CFMOTO warranty, shown
+below is the evaporative list of warranted parts for California built motorcycles� If an emission-related
+part specially noted within coverage under the Terms of Warranty is defective, the part will be repaired
+or replaced by CFMOTO Powersports, Inc� This is your long-term emission control system DEFECTS
+WARRANTY�
+The following parts are considered an evaporative-related component:
+● Fuel Tank ● Vacuum Control Diaphragms*
+● Fuel Cap ● Control Cables*
+● Fuel Line ● Control Linkages*
+● Fuel Line Fittings ● Purge Valves
+● Clamps* ● Vapor Hoses
+● Pressure Relief Valves* ● Liquid/Vapor Separator
+● Control Valves* ● Carbon Canister
+● Control Solenoids* ● Canister Mounting Brackets
+● Electronic Controls* ● Carburetor Purge Port Connector
+*As related to the evaporative emission control system�
+157CFMOTO WARRANTIES FOR USA
+OWNER’S WARRANTY RESPONSIBILITIES:
+- As the motorcycle owner, you are responsible for the performance of the required maintenance listed
+in your owner’s manual� CFMOTO Powersports, Inc� recommends that you retain all receipts covering
+maintenance on your (car, truck, or motorcycle), but CFMOTO Powersports, Inc� cannot deny warranty
+solely for the lack of receipts or for your failure to ensure the performance of all scheduled maintenance�
+- You are responsible for presenting your motorcycle to a CFMOTO Powersports, Inc� dealer as soon as a
+problem exists� The warranty repairs should be completed in a reasonable amount of time, not to exceed
+30 days�
+- As the motorcycle owner, you should also be aware that CFMOTO Powersports, Inc� may deny you
+warranty coverage if your motorcycle or a part has failed due to abuse, neglect, improper maintenance, or
+unapproved modifications.
+If you have any questions regarding your warranty rights and responsibilities, you should contact CFMOTO
+Powersports, Inc� at (763) 398-2690 or the California Air Resource Board at 4001 Iowa Avenue, Riverside,
+CA 92507�
+158Telematics Box
+T-BOX is an optional part, and when you purchase a vehicle, you’d better check with dealer if it’s equipped
+with a telematics box, or T-BOX�
+The T-Box is an intelligent vehicle terminal that builds a communication bridge between owners and
+vehicles through the CFMOTO RIDE APP installed on a mobile device� The CFMOTO RIDE APP is
+available for download from the Apple App Store for iPhone or Google Play for Android�
+159FOREWORD
+6NTV-380101-2902-13 US224
+MANUFACTURED BY : DISTRIBUTED BY : DISTRIBUTED BY
+Add:NO.116,Wuzhou Road, Yuhang Economic CFMOTO POWERSPORTS INC. CANADA MOTOR IMPORT INC.
+Development Zone,Hangzhou 311100, 3555 Holly Lane N. Suite #30, Plymouth MN, 24 rue Industrielle, Saint-Benoît Labre,
+Zhejiang Province,China 55447, USA Québec, Canada, G0M 1P0
+Tel:418-227-2077
+Tel: 86-571-86258863 Toll free: (888) 8-CFMOTO (823-6686)
+www.cfmoto.ca
+Fax: +86-571-89265788 Tel: (1) 763-398-2690
+E-mail: service@cfmoto.com.cn Fax: (1) 763-398-2695
+Http://global.cfmoto.com www.cfmotousa.com
+160
